@@ -1,3 +1,5 @@
+import { ChartConfig } from "@/components/ui/chart"
+
 export const CLAIM_OPTIONS = {
     sc: [
         "cold_event_denial", "deny_extreme_weather", "deny_causal_extreme_weather",
@@ -50,3 +52,8 @@ export const chartData = [
 export const TOPICS = [
     "All", "Technology", "Politics", "Science", "Health", "Business", "Entertainment"
 ]
+
+export const chartConfig = {
+    desktop: { label: "Desktop", color: "hsl(var(--chart-1))" },
+    mobile: { label: "Mobile", color: "hsl(var(--chart-2))" },
+} satisfies ChartConfig
