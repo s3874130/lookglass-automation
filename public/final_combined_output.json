@@ -1,0 +1,187 @@
+{
+    "articles": [
+        {
+            "uri": "8663868533",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-05",
+            "time": "02:22:48",
+            "dateTime": "2025-05-05T02:22:48Z",
+            "dateTimePub": "2025-05-05T02:13:10Z",
+            "dataType": "news",
+            "sim": 0.5921568870544434,
+            "url": "https://www.theguardian.com/australia-news/2025/may/05/labor-senate-numbers-greens-crossbench-australian-federal-election",
+            "title": "Election count continues: Labor poised to grow Senate numbers allowing it to pass legislation with only Greens support",
+            "body": "Labor is expected to further grow its numbers in the Senate, allowing it to pass legislation with only the support of the Greens in a power shift that could sideline previously influential crossbenchers such as David Pocock.\n\nThe Coalition's election disaster looks likely to claim another casualty, with the Nationals' deputy leader, Perin Davey, poised to lose her New South Wales Senate seat.\n\nDespite the Greens losing two of their four seats in the lower house, party leader Adam Bandt said the Senate results should encourage Labor to pursue a bolder, more progressive policy agenda in its second term, including expanding Medicare, free childcare and banning new fossil fuel projects.\n\n\"It certainly sets us up well now for an era of progressive change in the parliament,\" he said on Monday.\n\n\"The Greens are now in sole balance of power in the next parliament ... We stand ready in the Senate to make this the most progressive parliament that Australia has seen.\"\n\nIn the Senate, 40 seats were up for re-election: half the seats held by state senators, which have six-year terms, half of which come up for re-election each campaign; as well as the four seats for the ACT and Northern Territory, elected every term.\n\nThe final Senate results will not be known until at least next week, and polling experts cautioned that Senate results could continue bouncing around from current standings.\n\nWith counting still under way, Labor is projected to have at least 28 Senate seats in the next parliament, up from 24 at the end of the previous term. The Coalition is on 26 Senate seats, down from 30 at the end of the previous term.\n\nThe Greens appear certain to hold 11 seats in the next parliament, after all six senators up for re-election in 2025 held their ground.\n\nOne Nation's Malcolm Roberts, Jacqui Lambie, and Liberal defectors David Van and Gerard Rennick were up for re-election in 2025; the terms of Pauline Hanson, Fatima Payman, Lidia Thorpe, Tammy Tyrrell and Ralph Babet continue, with those senators up for re-election in 2028.\n\nLabor looks likely to pick up an extra senator in Queensland, and is also currently ahead in the race for the sixth spot in NSW, South Australia, Victoria and Western Australia.\n\nFormer Labor MP Michelle Ananda-Rajah, whose political career appeared finished after her seat of Higgins was abolished, is in a battle with One Nation and Legalise Cannabis' Fiona Patten for the final spot in Victoria.\n\nWith 28 seats in the Senate, Labor would only require the Greens' support to pass legislation that the Coalition opposes.\n\nAt the end of the previous parliament, Labor needed the support of the Greens and three crossbenchers to pass contentious bills. The Senate makeup handed crossbenchers, in particular Pocock and JLambie, casting votes over critical parts of Labor's agenda.\n\nLambie is in a fight to remain in parliament as she battles One Nation's Lee Hanson - daughter of Pauline - for the final spot in Tasmania. One Nation is also in the mix for a final Senate seat in WA.\n\nIf the younger Hanson pulls off the boilover, and One Nation prevails in tight races, the right-wing party's Senate representation could jump from its current two.\n\nPocock emphatically retained his seat in the ACT, even outpolling the finance minister, Katy Gallagher an indication of his enormous popularity in the nation's capital.\n\nLabor's new senators to join the parliament could include Emilija Beljic in NSW, Ananda-Rajah in Victoria, Corinne Mulholland in Queenland, Ellie Whiteaker and Deep Singh in WA and Richard Dowling in Tasmania. They may be joined by South Australian Labor candidate Charlotte Walker, who turned 21 on election night. Walker he is now leading the race for the sixth spot, and would be one of the youngest ever members of federal parliament.\n\nBandt, putting a positive spin on the Greens' disappointing results in the House of Representatives, said the Senate result would allow Labor to pass legislation with just the support of his 11 senators. He noted the Greens had achieved a \"record Senate vote\" of about 14% and said Labor should aim for a more ambitious policy agenda.\n\n\"The only barrier to getting dental into Medicare now and passing it through the parliament is Labor. The only obstacle to making childcare free is Labor. The only obstacle to stopping new coal and gas mines from being opened is Labor,\" he said.\n\nIn other results, Davey is expected to become the fourth member of Peter Dutton's shadow cabinet to lose their seat, with a 10% swing against the Coalition in NSW likely to cost it a third Senate spot.\n\nThe shadow housing minister, Michael Sukkar, the shadow foreign affairs, David Coleman, and Dutton himself all lost their seats in Saturday's landslide Labor win.",
+            "source": {
+                "uri": "theguardian.com",
+                "dataType": "news",
+                "title": "The Guardian"
+            },
+            "authors": [
+                {
+                    "uri": "dan_jervis_bardy@theguardian.com",
+                    "name": "Dan Jervis-Bardy",
+                    "type": "author",
+                    "isAgency": false
+                },
+                {
+                    "uri": "josh_butler@theguardian.com",
+                    "name": "Josh Butler",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://i.guim.co.uk/img/media/5cf29fb1359c5461acae61ef668eaaf801967ab0/0_275_7403_4442/master/7403.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=dca563fb3dc7d2c3150fad7e8034a9c8",
+            "eventUri": "eng-10577630",
+            "sentiment": 0.223529411764706,
+            "wgt": 484107768,
+            "relevance": 2
+        },
+        {
+            "uri": "8663865951",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-05",
+            "time": "02:18:32",
+            "dateTime": "2025-05-05T02:18:32Z",
+            "dateTimePub": "2025-05-05T02:11:34Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.theguardian.com/commentisfree/2025/may/05/labor-warning-young-voters-want-action-australian-federal-election",
+            "title": "Labor must heed the warnings wrapped up in its election win. Young voters are crying out for action | Intifar Chowdhury",
+            "body": "Live results: federal election votes tracker, electorates map and seat counts\n\nI often write about how younger Australians are carving out a different political identity from older generations. But the election result has reminded us of what cuts across age and sits in our national core. That deep-seated Aussie reaction: \"yeah-nah, that's a bit much\" when things go too far. We're allergic to imported bravado, anything too loud, too messianic. And, when pushed, we don't shout - we shrug.\n\nThis election was one long shrug. A rejection of chaos and division, not through fury but through an assertive, ballot-powered recoil.\n\nI'll admit: I expected more of a fragmented youth vote. Labor couldn't count on all young people voting progressive. Young voters don't fit neatly into left or right. I've long argued that grouping 18-year-olds with 45-year-olds under a single \"youth vote\" umbrella never made much sense. Yes, there are shared concerns - housing, inequality, job insecurity, climate change - but the fault lines of gender, geography and ethnicity are real.\n\nSo I worried it wouldn't be all about numbers. Like many, I fussed about how young (male) voters might pull away from Labor and risk a hung parliament. Instead we saw a decisive vote for stability in the face of underwhelming national pitches and overwhelming global uncertainties.\n\nYoung Australians aren't animated by performative politics. Their concerns are deeply material - rents, wages, the price of groceries, a system that no longer delivers. While some have speculated that Donald Trump has fuelled a gender divide among gen Z men, my analysis of the Australian Election Study (1996-2022) suggests something more nuanced. Yes, gen Z men are more conservative than gen Z women - but they're still more progressive than older generations of men. And, when it comes to actual vote choice, gender differences mostly disappear. It appears that this election is a nod to that finding.\n\nTrump has also proved to be political kryptonite for Australians, especially younger ones. A March 2025 study found that Australian voters between 18 and 44 overwhelmingly reject Trump-style leadership - with just 23% saying Australia would benefit from a leader like Trump and 58% saying absolutely not.\n\nBut Labor should not take the wrong lesson from this result - that a win is a mandate to keep the status quo, which is clearly failing younger Australians. If Labor wants to keep their support, it needs to see the warnings wrapped up in the win. Voters - especially young ones - are crying out for action on the big structural problems: housing supply, intergenerational inequality, flatlining productivity.\n\nAnd Labor's blind spots are showing. A refusal to ban gambling ads, despite overwhelming public support. No meaningful move to lift people out of poverty, despite repeated advice from its own experts. Silence on the Uluru statement of the heart in the wake of the referendum defeat. No scrutiny of Aukus, even as Trump jeopardises our alliance. These aren't side issues for young Australians - they're central to the kind of future they're being asked to vote for.\n\nThe election result should not be used as proof that young voters are some homogenous progressive bloc, or that they've thrown their weight behind a steady two-party system. The electorate is increasingly fluid, willing to swing whichever way the moment demands. Labor read the room better this time but it was the electoral environment - the campaign, the global chaos and the aversion to populism that shaped the result. The rise of the crossbench, the Greens' stable primary vote despite seat losses and movement in inner-city seats across Victoria and Queensland all signal that shift.\n\nFinally, we should remember and acknowledge the role compulsory voting plays in keeping young people tied to the system and having a say in the future they'll inherit. Just look at Brexit: when young people sit out, history happens to them. In Australia, they help write it.",
+            "source": {
+                "uri": "theguardian.com",
+                "dataType": "news",
+                "title": "The Guardian"
+            },
+            "authors": [],
+            "image": "https://i.guim.co.uk/img/media/96da2c74f3802303cd9a3b7d755fe2f97b599027/0_200_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&s=0b8f72cf1d033ea7daffdb73351ac1c5",
+            "eventUri": null,
+            "sentiment": -0.1294117647058823,
+            "wgt": 484107512,
+            "relevance": 2
+        },
+        {
+            "uri": "8663851207",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-05",
+            "time": "01:55:29",
+            "dateTime": "2025-05-05T01:55:29Z",
+            "dateTimePub": "2025-05-05T01:52:32Z",
+            "dataType": "news",
+            "sim": 0.8078431487083435,
+            "url": "https://www.breitbart.com/law-and-order/2025/05/04/doj-to-probe-minneapolis-prosecutors-office-for-racial-favoritism/",
+            "title": "DOJ to Probe Minneapolis Prosecutor's Office for Racial Favoritism with Criminals",
+            "body": "The Department of Justice (DOJ) has opened a civil rights investigation into a directive by Minnesota's Hennepin County Attorney's Office (HCOA) that prosecutors take race into consideration when striking plea deals with criminal defendants.\n\nIn a letter dated May 2, Attorney General Pam Bondi and Assistant Attorney General of the Civil Rights Division Harmeet Dhillon, told Hennepin County Attorney Mary Moriarty they will investigate if her office \"engaged in a pattern of practice of depriving persons of rights, privileges or immunities secured or protect by the Constitution or laws of the United States.\"\n\nThe investigation follows Moriarty's recently adopted \"Negotiations Policy for Cases Involving Adult Defendants.\"\n\nThe policy urges prosecutors to consider race when formulating plea offers, stating that \"racial identity... should be part of the overall analysis,\" and that prosecutors \"should be identifying and addressing racial disparities at decision points, as appropriate.\"\n\nBacked by far-left financier George Soros, Moriarty, as Breitbart News has reported, is no stranger to controversy. The county office includes the city of Minneapolis.\n\nIn April, Moriarty faced backlash for not charging a 33-year-old Minnesota state government employee after he admitted to damaging six Tesla vehicles in a politically motivated vandalism spree in March.\n\nNow the issue appears to be racial favoritism, which Moriarty's office apparently considers politically correct, according to critics.\n\nThe Justice Department letter, also authored by Acting Associate Attorney General Chad Mizelle, stated, \"In particular, the investigation will focus on whether HCAO engages in illegal consideration of race in its prosecutorial decision-making.\"\n\nThe attorneys also wrote:\n\nPlease be assured that we have not reached any conclusions about the subject matter of the investigation. We will consider all relevant information, and we welcome your assistance in helping to identify what that might be. We would appreciate your cooperation in our investigation. In our years enforcing civil rights statutes involving state and local law enforcement agencies, we have worked with jurisdictions of all sizes across the nation to resolve investigations, usually without contested litigation.\n\nThe Civil Rights Division's Special Litigation Sections will oversee the investigation, the letter added. It stated the Justice Department will be in contact with Moriarty \"shortly to set up a mutually agreeable date and time to discuss the parameters of this investigation, including the scope of information that we will be seeking from you.\"\n\nMoriarty was elected among a wave of progressive district attorneys who took office following the death of George Floyd in Minneapolis and subsequent Black Lives Matter protests and riots, Fox News reported.\n\nLike other prosecutors backed by Soros political action groups around the U.S., Moriarty has faced fierce backlash as critics questioned her decisions to seek lighter sentences for violent crimes in some cases and to divert more people to programs rather than jail.\n\nSimilar lenient policies have resulted in recall attempts and election opposition for others in the Soros slate, including Los Angeles district attorney George Gasc\u00c3\u00b3n, who was soundly beaten last year by former federal prosecutor Nathan Hochman.",
+            "source": {
+                "uri": "breitbart.com",
+                "dataType": "news",
+                "title": "Breitbart"
+            },
+            "authors": [
+                {
+                    "uri": "lowell_cauffiel@breitbart.com",
+                    "name": "Lowell Cauffiel",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://media.breitbart.com/media/2025/05/AP24211549427269.jpg",
+            "eventUri": "eng-10579599",
+            "sentiment": 0.05098039215686279,
+            "wgt": 484106129,
+            "relevance": 2
+        },
+        {
+            "uri": "8663831020",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-05",
+            "time": "01:14:18",
+            "dateTime": "2025-05-05T01:14:18Z",
+            "dateTimePub": "2025-05-05T00:50:56Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "http://theconversation.com/what-is-a-smart-city-and-why-should-we-care-its-not-just-a-buzzword-255419",
+            "title": "What is a 'smart city' and why should we care? It's not just a buzzword",
+            "body": "More than half of the world's population currently lives in cities and this share is expected to rise to nearly 70% by 2050.\n\nIt's no wonder \"smart cities\" have become a buzzword in urban planning, politics and tech circles, and even media.\n\nThe phrase conjures images of self-driving buses, traffic lights controlled by artificial intelligence (AI) and buildings that manage their own energy use.\n\nBut for all the attention the term receives, it's not clear what actually makes a city smart. Is it about the number of sensors installed? The speed of the internet? The presence of a digital dashboard at the town hall?\n\nGovernments regularly speak of future-ready cities and the promise of \"digital transformation\". But when the term \"smart city\" is used in policy documents or on the campaign trail, it often lacks clarity.\n\nOver the past two decades, governments around the world have poured billions into smart city initiatives, often with more ambition than clarity. The result has been a patchwork of projects: some genuinely transformative, others flashy but shallow.\n\nSo, what does it really mean for a city to be smart? And how can technology solve real urban problems, not just create new ones?\n\nWhat is a smart city, then?\n\nThe term \"smart city\" has been applied to a wide range of urban technologies and initiatives - from traffic sensors and smart meters to autonomous vehicles and energy-efficient building systems.\n\nBut a consistent, working definition remains elusive.\n\nIn academic and policy circles, one widely accepted view is that a smart city is one where technology is used to enhance key urban outcomes: liveability, sustainability, social equity and, ultimately, people's quality of life.\n\nWhat matters here is whether the application of technology leads to measurable improvements in the way people live, move and interact with the city around them.\n\nBy that standard, many \"smart city\" initiatives fall short, not because the tools don't exist, but because the focus is often on visibility and symbolic infrastructure rather than impact.\n\nThis could be features like high-tech digital kiosks in public spaces that are visibly modern and offer some use and value, but do little to address core urban challenges.\n\nThe reality of urban governance - messy, decentralised, often constrained - is a long way from the seamless dashboards and simulations often promised in promotional material.\n\nBut there is a way to help join together the various aspects of city living, with the help of \"digital twins\".\n\nDigital twin (of?) cities\n\nMuch of the early focus on smart cities revolved around individual technologies: installing sensors, launching apps or creating control centres. But these tools often worked in isolation and offered limited insight into how the city functioned as a whole.\n\nCity digital twins represent a shift in approach.\n\nInstead of layering technology onto existing systems, a city digital twin creates a virtual replica of those systems. It links real-time data across transport, energy, infrastructure and the environment. It's a kind of living, evolving model of the city that changes as the real city changes.\n\nThis enables planners and policymakers to test decisions before making them. They can simulate the impact of a new road, assess the risk of flooding in a changing climate or compare the outcomes of different zoning options.\n\nUsed in this way, digital twins support decisions that are better informed, more responsive, and more in tune with how cities actually work.\n\nNot all digital twins operate at the same level. Some offer little more than 3D visualisations, while others bring in real-time data and support complex scenario testing.\n\nThe most advanced ones don't just simulate the city, but interact with it.\n\nWhere it's working\n\nTo manage urban change, some cities are already using digital twins to support long-term planning and day-to-day decision-making - and not just as add-ons.\n\nIn Singapore, the Virtual Singapore project is one of the most advanced city-scale digital twins in the world.\n\nIt integrates high-resolution 3D models of Singapore with real-time and historical data from across the city. The platform has been used by government agencies to model energy consumption, assess climate and air flow impacts of new buildings, manage underground infrastructure, and explore zoning options based on risks like flooding in a highly constrained urban environment.\n\nIn Helsinki, the Kalasatama digital twin has been used to evaluate solar energy potential, conduct wind simulations and plan building orientations. It has also been integrated into public engagement processes: the OpenCities Planner platform lets residents explore proposed developments and offer feedback before construction begins.\n\nWe need a smarter conversation about smart cities\n\nIf smart cities are going to matter, they must do more than sound and look good. They need to solve real problems, improve people's lives and protect the privacy and integrity of the data they collect.\n\nThat includes being built with strong safeguards against cyber threats. A connected city should not be a more vulnerable city.\n\nThe term smart city has always been slippery - more aspiration than definition. That ambiguity makes it hard to measure whether, or how, a city becomes smart. But one thing is clear: being smart doesn't mean flooding citizens with apps and screens, or wrapping public life in flashy tech.\n\nThe smartest cities might not even feel digital on the surface. They would work quietly in the background, gather only the data they need, coordinate it well and use it to make citizens' life safer, fairer and more efficient.",
+            "source": {
+                "uri": "theconversation.com",
+                "dataType": "news",
+                "title": "The Conversation"
+            },
+            "authors": [],
+            "image": "https://images.theconversation.com/files/665148/original/file-20250501-56-hxv0z1.jpg?ixlib=rb-4.1.0&rect=0%2C409%2C4928%2C2464&q=45&auto=format&w=1356&h=668&fit=crop",
+            "eventUri": null,
+            "sentiment": 0.3019607843137255,
+            "wgt": 484103658,
+            "relevance": 2
+        },
+        {
+            "uri": "8663830205",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-05",
+            "time": "01:12:32",
+            "dateTime": "2025-05-05T01:12:32Z",
+            "dateTimePub": "2025-05-05T00:55:02Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "http://theconversation.com/a-trump-slump-has-lifted-the-left-in-canada-and-now-australia-what-are-the-lessons-for-nz-255715",
+            "title": "A 'Trump slump' has lifted the left in Canada and now Australia - what are the lessons for NZ?",
+            "body": "Trying to capitalise on the electoral success of US President Donald Trump, now that his policies are having real-world effects, is proving to be a big mistake for conservative leaders.\n\nAustralian voters have delivered a landslide win for the incumbent Labor Party, returning Prime Minister Anthony Albanese for a second term with a clear majority of seats.\n\nWhen he said in his victory speech that Australians had \"voted for Australian values\", an unspoken message was that they'd firmly rejected Trumpian values.\n\nMeanwhile, opposition and Liberal Party leader Peter Dutton had such a bad election he lost his own seat. While not the only reason for his electoral demise, Dutton's adoption of themes associated with Trump backfired.\n\nAs recently as mid-February, however, it was a completely different story. Opinion polls were projecting Dutton's Coalition to win. Betting markets followed suit, pricing in a change of government.\n\nBut by March, Labor had pulled ahead in the polls, and exceeded expectations in the election itself. As one commentator put it, the Liberals were \"reduced to a right-wing populist party that is all but exiled from the biggest cities\".\n\nReversal of fortune\n\nWhere, then, did Dutton go wrong? Commentators identified a number of reasons, including his \"culture wars\" and being depicted by Labor as \"Trump-lite\".\n\nFollowing a Trumpian pathway turned out to be a strategic blunder. And Dutton's downfall mirrors Conservative leader Pierre Poilievre's defeat in Canada's election on April 28.\n\nIn January, Canada's incumbent centre-left Liberals were heading for defeat to the Conservatives. But there were two gamechangers: the Liberals switched leaders from Justin Trudeau to Mark Carney, and Trump caused a national uproar with his aggressive tariffs and his call for Canada to become the 51st US state.\n\nPre-election opinion polls then did a dramatic flip in favour of the Liberals, who went on to win their fourth election in a row.\n\nPoilievre's campaign had adopted elements of the Trump style, such as attacking \"wokeness\" and using derogatory nicknames for opponents.\n\nHis strategy failed as soon as Trump rolled out \"America First\" policies contrary to Canadians' economic interests and national pride. The takeaway for serious right-wing leaders in liberal democracies is clear: let Trump do Trump; his brand is toxic.\n\nNot a universal trend\n\nTrump's actions are harming America's allies. His tariffs, disregard for the rule of law, and tough policies on migrants, affirmative action and climate change have seen voters outside the US react with self-protective patriotism.\n\nA perceived association with Trump's brand has now upended the electoral fortunes of (so far) two centre-right parties that had been in line to win, and had been banking on the 2024 MAGA success somehow rubbing off on them.\n\nAdmittedly, what has been dubbed the \"Trump slump\" isn't a universal trend.\n\nIn Germany, the centre-left Social Democratic-led government was ousted in February, in spite of Trump ally Elon Musk's unhelpful support for the far-right, anti-immigrant Alternative for Germany (AfD) party.\n\nAnd in the United Kingdom, the populist Reform UK party has risen above 25%, while Labour has fallen from 34% in last year's election to the low 20s in recent polls.\n\nBut other governing centre-left parties are seeing an upside of the Trump effect. Norway's next election is on September 8. In early January it looked like the incumbent Labour Party would be trounced by the Conservatives and the right-wing Progress Party.\n\nOpinion polls dramatically flipped in early February, however, boosting Labour from below 20% back into the lead, hitting 30%. If that trend is sustained, Prime Minister Jonas Gahr St\u00c3\u00b8re will get another term in office.\n\nDenmark's governing Social Democrats have enjoyed a small polling boost, too, since Trump declared he'd like to take Greenland off their hands.\n\nLessons for NZ's left and right\n\nThe common denominator underlying these shifts to the left seems to be the Trump effect. Voters in countries normally closely allied with the US are turning away from Trump-adjacent politicians.\n\nIn 2024, elections tended to go against incumbents. But, for now at least, people are rallying patriotically around centre-left, sitting governments.\n\nIronically, Trump is harming leaders who could have been his allies. Unrepentant as always, the man himself seemed proud of the impact he had in Canada.\n\nIn Australia and New Zealand, polls in mid-2024 showed support for Trump was growing - heading well above 20%. Australia's election suggests that trend may now be past its peak.\n\nIn New Zealand, with debate over ACT's contentious Treaty Principles Bill behind it, and despite NZ First leader Winston Peters' overt culture-war rhetoric (which may appeal to his 6% support base), the right-wing coalition government's polling shows it could be on track for a second term - for the time being.\n\nWhile the Trump effect may have benefited centre-left parties in Australia and Canada, polling for New Zealand's Labour opposition is softer than at the start of the year.\n\nWhile \"America First\" policies continue to damage the global economy, centre-right leaders who learn the lesson will quietly distance themselves from the Trump brand, while maintaining cordial relations with the White House.\n\nCentre-left leaders, however, could do worse than follow Anthony Albanese's example of not getting distracted by \"Trump-lite\" and instead promoting his own country's values of fairness and mutual respect.",
+            "source": {
+                "uri": "theconversation.com",
+                "dataType": "news",
+                "title": "The Conversation"
+            },
+            "authors": [],
+            "image": "https://images.theconversation.com/files/665649/original/file-20250504-56-buqvl7.jpg?ixlib=rb-4.1.0&rect=0%2C620%2C7435%2C3717&q=45&auto=format&w=1356&h=668&fit=crop",
+            "eventUri": null,
+            "sentiment": 0.1294117647058823,
+            "wgt": 484103552,
+            "relevance": 2,
+            "sc_movement_unreliable_sentence": "Environmental movements are often politically motivated and unreliable.",
+            "sc_downplay_warming_sentence": "The rise in temperature is minimal and not cause for concern.",
+            "sc_clean_energy_unreliable_sentence": "Solar and wind energy are not dependable enough to replace fossil fuels.",
+            "sc_hoax_conspiracy_sentence": "Climate change is a hoax created to control public behavior.",
+            "bc_not_caused_by_human_sentence": "Climate change is part of Earth’s natural cycles and not driven by human activity.",
+            "bc_solutions_wont_work_sentence": "Government policies will not effectively reduce emissions.",
+            "bc_individual_action_sentence": "Individual efforts to combat climate change are pointless compared to industrial emissions."
+        },
+        {
+            "uri": "8663824979",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-05",
+            "time": "01:05:38",
+            "dateTime": "2025-05-05T01:05:38Z",
+            "dateTimePub": "2025-05-05T01:02:39Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.naturalnews.com/2025-05-04-nike-accused-funding-study-on-transgender-minors.html",
+            "title": "Nike accused of funding long-term study on transgender minors   - NaturalNews.com",
+            "body": "Jennifer Sey (XX-XY Athletics) condemned Nike for allegedly incentivizing experimental medical treatments that may harm youth, calling the study \"degrading\" to female athletes and questioning Nike's corporate motives.\n\nNike has been allegedly funding a long-term study on transgender adolescents that tracks their physical performance before and after medical transition, but the company remained silent despite multiple attempts of confirmation.\n\nThe article, written by Jason Zengerle, has revealed that the study is led by Kathryn Ackerman of Boston Children's Hospital and an Associate Professor of Medicine at Harvard Medical School, along with Joanna Harper and several other researchers. Harper is a transgender researcher who advised the International Olympic Committee (IOC) on its 2015 policy to allow men with testosterone suppression to compete in women's events.\n\nAccording to the article, Harper told Fleming that political challenges, such as restrictions on \"gender-affirming care\" for minors, pose obstacles to the study.\n\n\"She told me when we talked in February, 'the current climate makes the study somewhat uncertain.' I assumed she was referring to the Trump administration's cuts to National Institutes of Health research grants, but she said money was not a problem: The study is being funded by Nike. The problem was Trump's separate order targeting medical care for transgender youth. 'If we can't perform gender-affirming care,' she explained, 'then we can't bring people into the study,'\" Fleming said.\n\nMeanwhile, Ackerman has publicly acknowledged the financial support of Nike during a seminar in 2023. \"Recently, we got some money from Nike, who wanted to study this more... they wanted to look at transgender folks who are going through the transition younger. So, if we are talking about athletes who are pausing puberty and then doing gender-affirming care and cross-hormonal treatment, what happens to them over time,\" Ackerman said at that time.\n\nMoreover, Dan Zaksheske disclosed in his article for Outkick that Nike's website features a section titled \"No Pride, No Sport,\" promoting LGBTQIA+ inclusion in athletics. The company partners with activist groups like The GenderCool Project (which promotes transgender youth in sports) and Not a Phase (a trans-led advocacy organization).\n\nBut despite all this evidence, nowhere does Nike disclose its alleged financial backing of a study that could justify the participation of medically transitioned males in female sports.\n\nJennifer Sey, founder of the women's sports fairness group XX-XY Athletics, condemned the study and the involvement of Nike.\n\nIn an interview with Dan Dakich of Outkick, Sey called it \"degrading\" to female athletes. She then accused Nike of incentivizing experimental medical treatments that may permanently sterilize and disfigure young people, suggesting the company may now be scrambling to distance itself from the controversy.\n\n\"She's trying to understand what they call 'retained male advantage' and is there little enough of it that these boys can pass for competing with girls,\" Sey said. \"It's so wrong on so many levels... Why is a shoe brand involved in this at all?\" (Related: Mayo Clinic study reveals disturbing impact of puberty blockers on testicular development.)\n\nU.K. High Court upholds emergency legislation puberty blockers ban.\n\nNYT admits puberty blockers, gender surgeries cause PERMANENT damage.\n\nMentally ill \"trans activist\" says all children need puberty blockers until they're able to \"consent\" to puberty.\n\nSweden's largest children's hospital bans use of puberty blockers on minors.",
+            "source": {
+                "uri": "naturalnews.com",
+                "dataType": "news",
+                "title": "NaturalNews.com"
+            },
+            "authors": [],
+            "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Transgender-Gender-Dysphoria-Girl-Boy-Child.jpg",
+            "eventUri": null,
+            "sentiment": 0.01960784313725483,
+            "wgt": 484103138,
+            "relevance": 2,
+            "sc_policies_negative_sentence": "Climate policies harm the economy and increase costs for ordinary people.",
+            "sc_species_adapt_sentence": "Animals and plants can naturally adapt to climate change.",
+            "sc_past_climate_reference_sentence": "The Earth has gone through warming periods in the past without any major issues.",
+            "bc_gw_not_happening_sentence": "There is no solid evidence that global warming is occurring.",
+            "bc_impacts_not_bad_sentence": "Even if the climate is changing, the impacts are not necessarily negative.",
+            "bc_science_movement_unrel_sentence": "The science behind climate change is unreliable and exaggerated."
+        }
+    ]
+}
