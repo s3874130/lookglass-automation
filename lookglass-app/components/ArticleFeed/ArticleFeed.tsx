@@ -1,5 +1,8 @@
 'use client'
 
+import Header from "@/components/ArticleFeed/Header"
+import Footer from "@/components/ArticleFeed/Footer"
+
 import { useArticleFeed } from "./useArticleFeed"
 import { ArticleList } from "./ArticleList"
 import { ClaimPieChart } from "./ClaimPieChart"
@@ -70,21 +73,8 @@ export default function ArticleFeed() {
 
   return (
     <>
-      {/* HEADER */}
-     <header className="w-full bg-card text-card-foreground border-b px-4 py-4 shadow-sm sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto flex items-center justify-between">
-          <h1 className="text-xl font-bold">LookGlass</h1>
-          <div className="flex gap-4 items-center">
-           <Link href="/searchpage">
-        <Button variant="ghost" size="sm">Search Page</Button>
-      </Link>
-            <Button variant="ghost" size="sm">About</Button>
-            <Button variant="ghost" size="sm">Contact</Button>
-          </div>
-        </div>
-      </header>
+      <Header />
 
-      {/* MAIN CONTENT */}
       <main className="max-w-7xl mx-auto px-4 py-8">
         {/* Top Nav */}
         <div className="w-full flex items-center justify-between mb-4">
@@ -204,17 +194,7 @@ export default function ArticleFeed() {
         </div>
       </main>
 
-      {/* FOOTER */}
-     <footer className="w-full border-t bg-card text-card-foreground px-4 py-6 mt-10">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} LookGlass.</p>
-          <div className="flex gap-4 mt-2 md:mt-0">
-            <a href="#" className="hover:underline">Privacy</a>
-            <a href="#" className="hover:underline">Terms</a>
-            <a href="#" className="hover:underline">Support</a>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </>
   )
 }
