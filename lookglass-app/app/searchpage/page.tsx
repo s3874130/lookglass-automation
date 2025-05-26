@@ -1,19 +1,14 @@
-"use client"
+'use client'
 
 import React, { useState } from 'react'
+import { useRouter } from 'next/navigation'
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue
+  Select, SelectContent, SelectItem, SelectTrigger, SelectValue
 } from "@/components/ui/select"
 import {
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
+  Popover, PopoverContent, PopoverTrigger
 } from "@/components/ui/popover"
 import { Calendar } from "@/components/ui/calendar"
 
@@ -21,9 +16,39 @@ import Header from "@/components/ArticleFeed/Header"
 import Footer from "@/components/ArticleFeed/Footer"
 
 const SearchArticlePage = () => {
+  const router = useRouter()
+
+  const [keyword, setKeyword] = useState("")
   const [startDate, setStartDate] = useState<Date | undefined>(undefined)
   const [endDate, setEndDate] = useState<Date | undefined>(undefined)
   const [source, setSource] = useState("")
+
+  const handleSearch = async () => {
+    try {
+      const res = await fetch("/final_combined_output.json")
+      const data = await res.json()
+
+      const filtered = data.articles.filter((article: any) => {
+        const articleDate = new Date(article.date)
+        const matchesKeyword = keyword === "" || (
+          article.title.toLowerCase().includes(keyword.toLowerCase()) ||
+          article.body.toLowerCase().includes(keyword.toLowerCase())
+        )
+        const matchesSource = source === "" || article.source.uri.toLowerCase().includes(source.toLowerCase())
+        const matchesDate = (!startDate || articleDate >= startDate) &&
+                            (!endDate || articleDate <= endDate)
+        return matchesKeyword && matchesSource && matchesDate
+      })
+
+      // Save filtered results to localStorage
+      localStorage.setItem("filteredResults", JSON.stringify(filtered))
+
+      // Navigate to results page
+      router.push("/visualisation")
+    } catch (err) {
+      console.error("Failed to search articles:", err)
+    }
+  }
 
   return (
     <>
@@ -36,6 +61,8 @@ const SearchArticlePage = () => {
           <div className="w-full">
             <Input
               placeholder="Search here"
+              value={keyword}
+              onChange={(e) => setKeyword(e.target.value)}
               className="w-full text-lg p-6 h-12"
             />
           </div>
@@ -96,7 +123,7 @@ const SearchArticlePage = () => {
           </div>
 
           <div className="flex justify-center">
-            <Button className="w-48 mt-6">Search</Button>
+            <Button className="w-48 mt-6" onClick={handleSearch}>Search</Button>
           </div>
         </div>
       </main>
