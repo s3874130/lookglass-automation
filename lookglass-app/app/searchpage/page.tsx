@@ -40,7 +40,7 @@ const SearchArticlePage = () => {
         return matchesKeyword && matchesSource && matchesDate
       })
 
-      // ✅ Save filtered results to localStorage
+      // Save filtered results to localStorage
       localStorage.setItem("filteredResults", JSON.stringify(filtered))
 
       // Navigate to results page
