@@ -34,16 +34,25 @@ export function useArticleFeed() {
 
     // Fetch data
     useEffect(() => {
-        const fetchData = async () => {
+        const loadArticles = async () => {
             setIsLoading(true)
             setError(null)
-            try {
-                const res = await fetch("/final_combined_output.json")
-                if (!res.ok) throw new Error("Failed to fetch")
 
-                const data = await res.json()
-                setArticles(data.articles)
-                setFilteredArticles(data.articles)
+            try {
+                // Check localStorage first to see if data exists in filteredresults
+                const localData = typeof window !== "undefined" && localStorage.getItem("filteredResults")
+                if (localData) {
+                    const parsed = JSON.parse(localData)
+                    setArticles(parsed)
+                    setFilteredArticles(parsed)
+                    localStorage.removeItem("filteredResults") // clear it after loading
+                } else {
+                    // Fallback to the full JSON if nothing in local storage
+                    const res = await fetch("/final_combined_output.json")
+                    const data = await res.json()
+                    setArticles(data.articles)
+                    setFilteredArticles(data.articles)
+                }
             } catch (err) {
                 setError("Failed to load articles. Please try again later.")
             } finally {
@@ -51,7 +60,7 @@ export function useArticleFeed() {
             }
         }
 
-        fetchData()
+        loadArticles()
     }, [])
 
     // Infinite scroll
