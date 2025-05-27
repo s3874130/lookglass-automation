@@ -47,11 +47,7 @@ export function useArticleFeed() {
                     setFilteredArticles(parsed)
                     localStorage.removeItem("filteredResults") // clear it after loading
                 } else {
-                    // Fallback to the full JSON if nothing in local storage
-                    const res = await fetch("/final_combined_output.json")
-                    const data = await res.json()
-                    setArticles(data.articles)
-                    setFilteredArticles(data.articles)
+                    setError("No filtered results found. Please return to the search page.")
                 }
             } catch (err) {
                 setError("Failed to load articles. Please try again later.")

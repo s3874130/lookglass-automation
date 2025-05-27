@@ -72,12 +72,23 @@ export function ArticleCard({
                 </h3>
             </CardHeader>
 
-            <CardContent className="flex flex-wrap gap-2 pb-1">
-                {Object.entries(item.claims || {}).map(([key]) => (
-                    <Badge key={key} className={getClaimColor(key)}>
-                        {(key.startsWith("sc_") ? "Subclaim: " : "Broad Claim: ") + extractClaimLabel(key)}
-                    </Badge>
-                ))}
+            <CardContent className="flex flex-col gap-2 pb-1">
+                {Object.entries(item.claims || {}).map(([key]) => {
+                    const sentence = item[key];
+
+                    return (
+                        <div key={key} className="flex flex-col">
+                            <Badge className={getClaimColor(key)}>
+                                {(key.startsWith("sc_") ? "Subclaim: " : "Broad Claim: ") + extractClaimLabel(key)}
+                            </Badge>
+                            {sentence && (
+                                <p className="text-sm italic text-muted-foreground mt-1">
+                                    {sentence}
+                                </p>
+                            )}
+                        </div>
+                    );
+                })}
             </CardContent>
 
             <Collapsible open={isOpen} onOpenChange={() => toggleItemAction(index)}>

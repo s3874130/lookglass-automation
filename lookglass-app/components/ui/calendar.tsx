@@ -4,9 +4,6 @@ import * as React from "react"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import { DayPicker } from "react-day-picker"
 
-import "react-day-picker/dist/style.css"
-
-
 import { cn } from "@/lib/utils"
 import { buttonVariants } from "@/components/ui/button"
 
@@ -62,23 +59,14 @@ function Calendar({
         day_hidden: "invisible",
         ...classNames,
       }}
-
-      components={
-        {
-          Icon: (props: {
-            iconProps: React.SVGProps<SVGSVGElement> & { direction: "left" | "right" }
-          }) => {
-            const { iconProps } = props
-
-            return iconProps.direction === "left" ? (
-              <ChevronLeft className={cn("size-4", iconProps.className)} {...iconProps} />
-            ) : (
-              <ChevronRight className={cn("size-4", iconProps.className)} {...iconProps} />
-            )
-          },
-        } as unknown as React.ComponentProps<typeof DayPicker>["components"]
-      }
-
+      components={{
+        IconLeft: ({ className, ...props }) => (
+          <ChevronLeft className={cn("size-4", className)} {...props} />
+        ),
+        IconRight: ({ className, ...props }) => (
+          <ChevronRight className={cn("size-4", className)} {...props} />
+        ),
+      }}
       {...props}
     />
   )
