@@ -18,7 +18,6 @@ import { Dialog, DialogTrigger, DialogContent, DialogHeader, DialogTitle, Dialog
 import { Switch } from "@/components/ui/switch"
 import { Label } from "@/components/ui/label"
 import { MoonStar, SunMedium, Settings, RefreshCw, Filter, ChevronDown } from "lucide-react"
-import Link from 'next/link'
 
 export default function ArticleFeed() {
     const {
