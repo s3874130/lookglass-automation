@@ -24,26 +24,30 @@ const SearchArticlePage = () => {
   const [source, setSource] = useState("")
 
   const handleSearch = async () => {
+    // Prevent search if there is nothing has been inputted in the search bar
+    if (keyword.trim() === "") return
+
     try {
       const res = await fetch("/final_combined_output.json")
       const data = await res.json()
 
       const filtered = data.articles.filter((article: any) => {
         const articleDate = new Date(article.date)
-        const matchesKeyword = keyword === "" || (
+        const matchesKeyword =
           article.title.toLowerCase().includes(keyword.toLowerCase()) ||
           article.body.toLowerCase().includes(keyword.toLowerCase())
-        )
-        const matchesSource = source === "" || article.source.uri.toLowerCase().includes(source.toLowerCase())
-        const matchesDate = (!startDate || articleDate >= startDate) &&
-                            (!endDate || articleDate <= endDate)
+
+        const matchesSource =
+          source === "" || article.source.uri.toLowerCase().includes(source.toLowerCase())
+
+        const matchesDate =
+          (!startDate || articleDate >= startDate) &&
+          (!endDate || articleDate <= endDate)
+
         return matchesKeyword && matchesSource && matchesDate
       })
 
-      // Save filtered results to localStorage
       localStorage.setItem("filteredResults", JSON.stringify(filtered))
-
-      // Navigate to results page
       router.push("/visualisation")
     } catch (err) {
       console.error("Failed to search articles:", err)

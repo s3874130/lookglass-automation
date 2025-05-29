@@ -67,29 +67,18 @@ export function ArticleCard({
                             : "Unknown Date"}
                     </span>
                 </div>
+
+                {/* First Claim Badge */}
+                {item.claims && Object.keys(item.claims).length > 0 && (
+                    <Badge className={getClaimColor(Object.keys(item.claims)[0])}>
+                        {extractClaimLabel(Object.keys(item.claims)[0])}
+                    </Badge>
+                )}
+
                 <h3 className="text-base font-bold leading-snug">
                     {item.title || "Untitled Article"}
                 </h3>
             </CardHeader>
-
-            <CardContent className="flex flex-col gap-2 pb-1">
-                {Object.entries(item.claims || {}).map(([key]) => {
-                    const sentence = item[key];
-
-                    return (
-                        <div key={key} className="flex flex-col">
-                            <Badge className={getClaimColor(key)}>
-                                {(key.startsWith("sc_") ? "Subclaim: " : "Broad Claim: ") + extractClaimLabel(key)}
-                            </Badge>
-                            {sentence && (
-                                <p className="text-sm italic text-muted-foreground mt-1">
-                                    {sentence}
-                                </p>
-                            )}
-                        </div>
-                    );
-                })}
-            </CardContent>
 
             <Collapsible open={isOpen} onOpenChange={() => toggleItemAction(index)}>
                 <CardContent className="text-sm text-muted-foreground space-y-2">
