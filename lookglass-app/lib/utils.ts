@@ -5,19 +5,21 @@ export function cn(...inputs: ClassValue[]) {
     return twMerge(clsx(inputs))
 }
 
-export function extractClaimLabel(key: string): string {
-    // Match keys like 'sc_movement_unreliable_sentence' or 'bc_not_caused_by_human_sentence'
-    const match = key.match(/^(sc|bc)_(.*)_sentence$/)
-    if (!match) return key
-
-    const raw = match[2] // e.g., 'movement_unreliable' or 'not_caused_by_human'
-
-    // Turn snake_case into Title Case
-    return raw
-        .split('_')
-        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-        .join(' ')
-}
+export const extractClaimTypes = (article: any): string[] => {
+    return Object.keys(article)
+      .filter(
+        key =>
+          (key.startsWith("bc_") || key.startsWith("sc_")) &&
+          key.endsWith("_sentence")
+      )
+      .map(key => {
+        const rawClaim = key.replace(/^(bc_|sc_)/, "").replace(/_sentence$/, "")
+        return rawClaim
+          .split("_")
+          .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+          .join(" ")
+      })
+  }
 
 export function getClaimColor(key: string): string {
     if (key.includes("extreme_weather")) return "bg-green-100 text-green-800"

@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useMemo, useRef } from "react"
 import { CLAIM_COLORS } from "./constants"
-import { extractClaimLabel } from "@/lib/utils"
 
 export function useArticleFeed() {
     const [articles, setArticles] = useState<any[]>([])
@@ -92,13 +91,6 @@ export function useArticleFeed() {
                 (article.title?.toLowerCase() || "").includes(query) ||
                 (article.body?.toLowerCase() || "").includes(query)
             )
-        }
-
-        if (selectedTopic !== "All") {
-            results = results.filter(article => {
-                const topics = Object.keys(article.claims || {}).map(key => extractClaimLabel(key))
-                return topics.some(topic => topic.includes(selectedTopic))
-            })
         }
 
         setFilteredArticles(results)
