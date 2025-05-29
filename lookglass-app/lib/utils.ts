@@ -7,19 +7,19 @@ export function cn(...inputs: ClassValue[]) {
 
 export const extractClaimTypes = (article: any): string[] => {
     return Object.keys(article)
-      .filter(
-        key =>
-          (key.startsWith("bc_") || key.startsWith("sc_")) &&
-          key.endsWith("_sentence")
-      )
-      .map(key => {
-        const rawClaim = key.replace(/^(bc_|sc_)/, "").replace(/_sentence$/, "")
-        return rawClaim
-          .split("_")
-          .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-          .join(" ")
-      })
-  }
+        .filter(
+            key =>
+                (key.startsWith("bc_") || key.startsWith("sc_")) &&
+                key.endsWith("_sentence")
+        )
+        .map(key => {
+            const rawClaim = key.replace(/^(bc_|sc_)/, "").replace(/_sentence$/, "")
+            return rawClaim
+                .split("_")
+                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(" ")
+        })
+}
 
 export function getClaimColor(key: string): string {
     if (key.includes("extreme_weather")) return "bg-green-100 text-green-800"
@@ -39,17 +39,15 @@ export function getClaimColor(key: string): string {
     return "bg-gray-100 text-gray-800"
 }
 
-export function getFirstClaimSentence(claims: Record<string, string>): { text: string; color: string } | null {
-    for (const [key, sentence] of Object.entries(claims)) {
-        if (sentence) {
-            return {
-                text: sentence,
-                color: getClaimColor(key),
-            }
-        }
-    }
-    return null
-}
+export const getClaimSentence = (article: any): string[] => {
+    const claimKeys = Object.keys(article).filter(key =>
+        key.endsWith('_sentence')
+    );
+
+    return claimKeys
+        .map(key => article[key])
+        .filter((sentence): sentence is string => typeof sentence === 'string' && sentence.trim() !== '');
+};
 
 function toNamespace(obj: any): any {
     if (typeof obj !== "object" || obj === null) return obj;
@@ -59,5 +57,22 @@ function toNamespace(obj: any): any {
             return typeof value === "object" ? toNamespace(value) : value;
         },
     });
+}
+
+export function highlightClaimsInBody(body: string, claims: string[]): string {
+    if (!body) return "";
+
+    let highlightedBody = body;
+
+    claims.forEach(claim => {
+        const escapedClaim = claim.replace(/[-[\]/{}()*+?.\\^$|]/g, "\\$&"); // escape RegEx
+        const regex = new RegExp(escapedClaim, "gi");
+        highlightedBody = highlightedBody.replace(
+            regex,
+            `<span class="underline">${claim}</span>`
+        );
+    });
+
+    return highlightedBody;
 }
 
