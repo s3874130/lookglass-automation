@@ -26,7 +26,6 @@ export function ArticleList({
     currentPage,
     lastArticleRef,
 }: ArticleListProps) {
-    // const paginatedArticles = articles.slice(0, currentPage * 10)
     const paginatedArticles = articles
 
     if (paginatedArticles.length === 0) {
