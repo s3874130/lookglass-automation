@@ -17,7 +17,7 @@ import {
 import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
 import { Badge } from "@/components/ui/badge"
-import { extractClaimTypes } from "@/lib/utils"
+import { extractClaimTypes, getClaimSentence, highlightClaimsInBody } from "@/lib/utils"
 
 
 interface ArticleCardProps {
@@ -45,8 +45,9 @@ export function ArticleCard({
 }: ArticleCardProps) {
     const isOpen = openId === index
     const claimTypes = extractClaimTypes(item)
+    const claimSentences = getClaimSentence(item)
     console.log(claimTypes)
-
+    console.log(claimSentences)
     return (
         <Card
             ref={lastArticleRef && index === openId ? lastArticleRef : null}
@@ -86,29 +87,15 @@ export function ArticleCard({
 
             <Collapsible open={isOpen} onOpenChange={() => toggleItemAction(index)}>
                 <CardContent className="text-sm text-muted-foreground space-y-2">
-                    <p>
-                        {isOpen
-                            ? item.body || "No summary available."
-                            : `${item.body?.slice(0, 200) || "No summary available."}...`}
-                    </p>
 
-                    <p className="italic text-muted-foreground">
-                        {String(
-                            Object.entries(item).find(([key]) =>
-                                key.endsWith("_sentence")
-                            )?.[1] ?? "No claim sentence available."
-                        )}
-                    </p>
+                    <p
+                        dangerouslySetInnerHTML={{
+                            __html: isOpen
+                                ? highlightClaimsInBody(item.body || "", claimSentences)
+                                : `${item.body?.slice(0, 200) || "No summary available."}... <span class="underline text-red-600">${claimSentences[0] || ""}</span>`
+                        }}
+                    />
 
-                    <CollapsibleContent>
-                        <div className="pt-2 space-y-2">
-                            {Object.entries(item)
-                                .filter(([key]) => key.endsWith("_sentence"))
-                                .map(([key, value]) => (
-                                    <p key={key} className="italic">{String(value)}</p>
-                                ))}
-                        </div>
-                    </CollapsibleContent>
                 </CardContent>
 
                 <CardFooter className="justify-between">
