@@ -23,7 +23,6 @@ export function ArticleList({
     likedArticles,
     bookmarkedArticles,
     toggleBookmarkAction,
-    currentPage,
     lastArticleRef,
 }: ArticleListProps) {
     const paginatedArticles = articles

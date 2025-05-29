@@ -1,8 +1,6 @@
 'use client'
 
 import { Card, CardHeader, CardContent, CardFooter } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import { extractClaimLabel, getClaimColor } from "@/lib/utils"
 import {
     Collapsible,
     CollapsibleContent,
@@ -18,6 +16,9 @@ import {
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
+import { Badge } from "@/components/ui/badge"
+import { extractClaimTypes } from "@/lib/utils"
+
 
 interface ArticleCardProps {
     item: any
@@ -40,9 +41,11 @@ export function ArticleCard({
     likedArticles,
     bookmarkedArticles,
     toggleBookmarkAction,
-    lastArticleRef
+    lastArticleRef,
 }: ArticleCardProps) {
     const isOpen = openId === index
+    const claimTypes = extractClaimTypes(item)
+    console.log(claimTypes)
 
     return (
         <Card
@@ -69,11 +72,12 @@ export function ArticleCard({
                 </div>
 
                 {/* First Claim Badge */}
-                {item.claims && Object.keys(item.claims).length > 0 && (
-                    <Badge className={getClaimColor(Object.keys(item.claims)[0])}>
-                        {extractClaimLabel(Object.keys(item.claims)[0])}
-                    </Badge>
-                )}
+                <div className="flex flex-wrap gap-2">
+                    {claimTypes.map((claim, index) => (
+                        <Badge key={index}>{claim}</Badge>
+                    ))}
+                </div>
+
 
                 <h3 className="text-base font-bold leading-snug">
                     {item.title || "Untitled Article"}
