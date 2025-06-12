@@ -29,51 +29,47 @@ const SearchArticlePage = () => {
   const [source, setSource] = useState("")
 
   /**
-   * Fetch and filter articles based on the current search form inputs.
-   * Stores the filtered results in memory (LocalStorage) for retrieval in the visualisation page
+   * This function is triggered when the user clicks the search button.
+   * It sends a POST request to the FastAPI backend with the search parameters.
+   * On successful response, it stores the resulting articles in localStorage and navigates to the visualisation page.
    */
-  const handleSearch = async () => {
 
-    // Prevents empty searches - Does nothing when input is empty and user clicks search
+  const handleSearch = async () => {
+    // Prevent search if input is empty (e.g. user clicked without typing)
     if (keyword.trim() === "") return
 
     try {
-      
-      // Load the JSON file containing all articles
-      const res = await fetch("/final_combined_output.json")
-      const data = await res.json()
+      // Construct the payload to send to the FastAPI backend
+      const payload = {
+        keywords: keyword, // Main keyword for article search
+        source: source || "news", // Use selected source, fallback to "news" if none selected
+        datastart: startDate?.toISOString().split("T")[0] || "2024-01-01", // Format start date or use default
+        dateend: endDate?.toISOString().split("T")[0] || "2024-12-31" // Format end date or use default
+      }
 
-      // Applying client side filtering 
-      const filtered = data.articles.filter((article: any) => {
-        const articleDate = new Date(article.date)
-
-        // Keyword must be included in either the title or body (case-insensitive, wild-card search)
-        const matchesKeyword =
-          article.title.toLowerCase().includes(keyword.toLowerCase()) ||
-          article.body.toLowerCase().includes(keyword.toLowerCase())
-
-        // Source filters (News, blogs etc.)
-        const matchesSource =
-          source === "" || article.source.uri.toLowerCase().includes(source.toLowerCase())
-
-        // Date range filtering 
-        const matchesDate =
-          (!startDate || articleDate >= startDate) &&
-          (!endDate || articleDate <= endDate)
-        
-        // Return all articles that meet keyword, source and date range criteria
-        return matchesKeyword && matchesSource && matchesDate
+      // Make the POST request to the FastAPI backend
+      const res = await fetch("http://127.0.0.1:8000/search-news", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload) // Convert payload to JSON string
       })
 
-      // Save results to memory so the visualisation page can read
-      localStorage.setItem("filteredResults", JSON.stringify(filtered))
+      // If the backend returns an error response, throw to trigger catch block
+      if (!res.ok) throw new Error("Request failed")
 
-      // Navigate to results page
+      // Parse the JSON response from the backend
+      const data = await res.json()
+
+      // Save the article results to localStorage for retrieval on the next page
+      localStorage.setItem("filteredResults", JSON.stringify(data.articles))
+
+      // Navigate to the visualisation page to display the results
       router.push("/visualisation")
     } catch (err) {
-
-      // Catch unexpected parsing or fetching errors
-      console.error("Failed to search articles:", err)
+      // Log any errors that occurred during the fetch request
+      console.error("Failed to fetch from FastAPI:", err)
     }
   }
 
