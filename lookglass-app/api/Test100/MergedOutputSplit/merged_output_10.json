@@ -1,0 +1,161 @@
+{
+    "articles": [
+        {
+            "uri": "8659867770",
+            "lang": "eng",
+            "isDuplicate": true,
+            "date": "2025-05-01",
+            "time": "19:32:26",
+            "dateTime": "2025-05-01T19:32:26Z",
+            "dateTimePub": "2025-05-01T19:30:00Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.smh.com.au/environment/sustainability/a-cull-of-convenience-how-blue-gum-plantations-can-kill-koalas-20250429-p5lv6y.html",
+            "title": "A 'cull of convenience'? How blue-gum plantations can kill koalas",
+            "body": "Hundreds of koalas shot from helicopters in an unprecedented aerial shooting program in the bushfire-ravaged Budj Bim National Park were not checked for joeys after they were killed.\n\nMore than 1000 koalas were shot from helicopters in an operation the Department of Energy, Environment and Climate (DEECA) said was necessary to reduce animals' suffering after bushfires. However, the department confirmed almost 90 per cent of the koalas were not examined on the ground before they were shot, and authorities could not access carcasses after aerial shootings to check for pouch young.\n\nDEECA says its aerial shooting program, which concluded almost two months after bushfires swept through the park, was conducted as a \"humane action [taken] to prevent further suffering\" of koalas in the national park.\n\nAbout half Budj Bim was burnt in bushfires sparked by a lightning strike on March 1.",
+            "source": {
+                "uri": "smh.com.au",
+                "dataType": "news",
+                "title": "The Sydney Morning Herald"
+            },
+            "authors": [],
+            "image": "https://static.ffx.io/images/$zoom_0.2242%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/6f5020080c16bd56f2b87c3f68eb06bfd9b01739",
+            "eventUri": null,
+            "sentiment": -0.3019607843137255,
+            "wgt": 483823946,
+            "relevance": 1
+        },
+        {
+            "uri": "2025-05-707282160",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "19:32:05",
+            "dateTime": "2025-05-01T19:32:05Z",
+            "dateTimePub": "2025-05-01T15:21:01Z",
+            "dataType": "news",
+            "sim": 0.6823529601097107,
+            "url": "https://www.washingtontimes.com/news/2025/may/1/trump-doj-sues-michigan-hawaii-planned-climate-change-lawsuits-oil/",
+            "title": "Trump DOJ sues Michigan, Hawaii over planned climate change lawsuits against oil companies",
+            "body": "President Trump's Justice Department is going on the legal offensive, suing Michigan and Hawaii in two separate lawsuits ahead of the states' planned litigation against fossil fuel companies on climate change.\n\nAfter politicians in both Hawaii and Michigan announced they were planning to sue fossil fuel companies for allegedly contributing to climate change, Mr. Trump's Justice Department beat them to the courthouse.\n\nIn two similar federal lawsuits this week, the federal government argues that the states' plans run afoul of the Clean Air Act, which sets federal standards for pollution across state lines.\n\nThe feds say any state law move to interfere with that is preempted by the federal legislation.\n\nThe lawsuit also says Mr. Trump in an executive order on his first day in office declared that the country is \"facing an energy crisis\" and that energy production is a national security focus.\n\n\"If Michigan is permitted to pursue these sorts of state law claims, other States could pursue similar claims, leading to a chaotic 'patchwork' of regulations that undermine the national interest in readily available and affordable energy and the government's ability to effectively administer coherent national environmental policy and regulation of global pollution,\" the lawsuit filed in the Western District of Michigan read.\n\n\"Such fragmentation would frustrate Congress's intent for a unified federal approach to global air pollution,\" it continued.\n\nLocal outlets reported last year that the state of Michigan had contracted with three major law firms to bring the activist litigation against fossil fuel companies.\n\nThe planned lawsuit, according to the federal government, would interfere with foreign commerce, interstate gas emissions and national energy policy.\n\n\"The financial burdens of Michigan's anticipated lawsuit on fossil fuel businesses increase the United States' costs for purchasing fuels and threaten revenue from federal leasing,\" the complaint read. \"The United States seeks to protect citizens nationwide from higher energy costs and economic disruption caused by Michigan's anticipated overreach.\"\n\nThe Justice Department asked the courts to enjoin both states from filing such a lawsuit as unconstitutional.\n\nSimilarly, the feds filed a lawsuit against Hawaii in the District of Hawaii just two days after its governor announced they would be filing a case against big oil companies to get them to pay for damages he says were caused by climate change due to the fossil fuel industry.\n\n\"We will be filing suit, I believe, on Thursday against the fossil fuel companies. They have to pay their share because climate change and the climate impact is definitely connected to generations of extra fossil fuel that's been burned,\" Hawaii Gov. Josh Green said, according to local Fox affiliate KHON.\n\nHis office did not immediately respond to a request for comment about the Trump administration's lawsuit. A spokesperson from the Michigan attorney general's office also did not respond to a query from The Washington Times.\n\nThe city of Honolulu, along with California and other cities across the country, have launched climate change related claims against major fuel producers like Exxon and Chevron.\n\nWhile some of the efforts have been dismissed by judges, others are still working their way through the court system.\n\nThe Justice Department lawsuits say that over restrictive policies have caused a decrease in American energy development, creating a crisis. That led to the president signing the Protecting American Energy From State Overreach executive order on his first day in office and declaring a national energy crisis.\n\n\"As a result of state restrictions and burdens on energy production, the American people are paying more for energy, and the United States is less able to defend itself from hostile foreign actors,\" the federal government said in its litigation.",
+            "source": {
+                "uri": "washingtontimes.com",
+                "dataType": "news",
+                "title": "Washington Times"
+            },
+            "authors": [
+                {
+                    "uri": "alex_swoyer@washingtontimes.com",
+                    "name": "Alex Swoyer",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://twt-thumbs.washtimes.com/media/image/2024/11/01/Earns_ExxonMobil_74712_c0-165-3948-2466_s1770x1032.jpg?d38e9dc06a76f1d3fa7f6605f3faff642ab80d50",
+            "eventUri": "eng-10572332",
+            "sentiment": -0.03529411764705881,
+            "wgt": 483823925,
+            "relevance": 8
+        },
+        {
+            "uri": "2025-05-707282159",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "19:32:04",
+            "dateTime": "2025-05-01T19:32:04Z",
+            "dateTimePub": "2025-05-01T15:27:55Z",
+            "dataType": "news",
+            "sim": 0.6941176652908325,
+            "url": "https://www.washingtontimes.com/news/2025/may/1/rogue-judges-law/",
+            "title": "Rogue judges are not above the law",
+            "body": "Wisconsin Supreme Court removed the argument that she was some kind of hero\n\nJudge Hannah Dugan is screwed. Even the liberal Wisconsin Supreme Court issued an order suspending her from performing her judicial duties. The Milwaukee County Circuit Court judge is charged with two federal criminal offenses: one felony and one misdemeanor. The Supreme Court took away the argument that she was some kind of hero unfairly targeted by the Trump administration. Instead, she is a suspended judge facing serious federal charges.\n\nFBI agents arrested Judge Dugan last Friday. She was charged with two federal crimes: concealing a person from discovery and arrest and obstruction of federal government proceedings. Each charge stems from her alleged misdirection of federal agents from detaining Eduardo Flores-Ruiz.\n\nAccording to court documents, Mr. Flores-Ruiz was set to appear in court on April 18 for a pretrial conference for a case in which he was charged with several counts of battery and domestic abuse. FBI Director Kash Patel said on social media that authorities \"believe Judge Dugan intentionally misdirected federal agents away from the subject to be arrested in her courthouse, Eduardo Flores-Ruiz, allowing the subject -- an illegal alien -- to evade arrest. Thankfully our agents chased down the perp on foot and he's in custody since, but the Judge's obstruction created increased danger to the public.\"\n\nLiberals went wild but ignored the facts. Law enforcement officers often make arrests in courthouses for two obvious reasons: They can track when the suspect is in court, and most locations have security scanning so officers can take someone into custody without fear of the suspect hiding firearms. It just makes sense.\n\nLiberals also falsely suggest that the Trump administration is \"weaponizing law enforcement\" for its benefit. Besides the breathtaking list of ridiculous charges against President Trump, the more important point is that they do not dispute the facts laid out in the charges.\n\nJudge Hannah Dugan was not arrested for failing to cooperate with federal agents or going along with their actions. The charges against her are specifically for actions that led to obstruction of justice.\n\nIt is important to remember that a sworn magistrate in the federal courts reviewed the information and found probable cause before they brought charges against Judge Dugan. They had to make their case before they made an arrest.\n\nEduardo Flores-Ruiz was charged with counts of battery, domestic abuse, and infliction of physical pain or injury. A criminal complaint states he intentionally elbowed a woman, which caused her pain and bruising. He was also accused of punching his roommate 30 times with a closed fist. The girlfriend of the roommate tried to stop it, and Mr. Flores-Ruiz struck her with a closed fist and shoved her, according to the criminal complaint. He is also accused of grabbing his roommate by the neck -- a real role model.\n\nFederal agents were there to arrest him because Immigration and Customs Enforcement identified him as an illegal immigrant from Mexico, someone U.S. Border Patrol agents removed on Jan. 13, 2013, under the Obama administration. This is key because once someone has received an expedited removal order, the federal government can deport them without a court hearing.\n\nOn April 18, federal agents agreed to arrest Mr. Flores-Ruiz in the hallway outside the courtroom after the hearing. According to the FBI, the defense attorney told Judge Dugan that ICE was there to arrest Mr. Flores-Ruiz. The judge ordered him to sit in the jury box and stay there. Then, she went into the hallway to confront the ICE agents and demand that they leave the courthouse. After they presented her with an arrest warrant, she demanded that they see the chief judge.\n\nWhile the federal officers were waiting to see the chief judge, Judge Dugan returned to her courtroom and adjourned the hearing without talking to the prosecutor or the victims. Then, she took Mr. Flores-Ruiz and his attorney out through the jury door, and they left through a private hallway.\n\nFortunately for those of us who believe in the rule of law, a federal agent saw Mr. Flores-Ruiz trying to leave the courthouse and followed him. The agent called for backup. After a foot chase, the officers caught him. This put the agents and the general public at risk instead of the orderly process originally planned for taking him into custody outside the courtroom after the hearing.\n\nThese are the facts. I have yet to see any liberal apologist for suspended Judge Hannah Dugan dispute them. Instead, they try to use this as a platform to protest the policies of the Trump administration.\n\nSuspended Judge Dugan is a liberal activist. She ran against a well-qualified and respected incumbent because I appointed him. In a very liberal county, she won. Yet even in that county, the law applies to everyone -- even a judge.\n\nAccording to the charges, her actions obstructed justice. They prevented the arrest of a fugitive. She helped him leave the building in a way that would avoid arrest by federal agents. She put those officers and even the general public at risk by forcing them to make the arrest outside after a chase. She dismissed the interests of the victims in her courtroom. These are the facts she must now face in a federal courtroom.\n\nThe actions by the Wisconsin Supreme Court, ruled by a liberal majority, to suspend her authority to serve as a judge are just the beginning of her legal troubles. Others should take notice. No one is above the law.",
+            "source": {
+                "uri": "washingtontimes.com",
+                "dataType": "news",
+                "title": "Washington Times"
+            },
+            "authors": [
+                {
+                    "uri": "scott_walker@washingtontimes.com",
+                    "name": "Scott Walker",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://twt-thumbs.washtimes.com/media/image/2025/04/25/Immigration-Judge-Arrested_27133_c0-102-3864-2354_s1770x1032.jpg?b15999afb034db07c857f2f6fc949a478967cf3a",
+            "eventUri": "eng-10565667",
+            "sentiment": -0.1215686274509804,
+            "wgt": 483823924,
+            "relevance": 1
+        },
+        {
+            "uri": "2025-05-707278483",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "19:26:36",
+            "dateTime": "2025-05-01T19:26:36Z",
+            "dateTimePub": "2025-05-01T15:24:59Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.washingtontimes.com/news/2025/may/1/editorial-spains-green-energy-triumph/",
+            "title": "Spain's green energy triumph",
+            "body": "The Spanish government boasted last month that it had become a global leader in fueling its economy with windmills and solar panels. Among leftists, there is no higher virtue to signal than replacing nuclear, gas and coal plants with these in-vogue alternatives.\n\nShortly after achieving this green energy miracle, Spain and Portugal's 60 million citizens were plunged into darkness not experienced since medieval times, when, not coincidentally, windmills were widely used as a power source. NASA satellite imagery captured the blackout stretching across the Iberian Peninsula.\n\nModern Europeans brag about the superiority of their electric train network, but some Spanish passengers may have entertained second thoughts when powerless locomotives left them stranded for hours. Even gasoline-fueled cars slowed without traffic lights to guide the chaos on the streets of Madrid, Barcelona and Lisbon.\n\nThose stuck in dark, high-rise elevators had no way to summon help when cellphone towers stopped transmitting. The public resorted to cash or barter to pay for what food or drink remained in markets swiftly emptied by panic buying.\n\nThe responsible authorities in Spain haven't been forthcoming about what caused the disruption. Ordinarily, \"renewable\" systems reliant on sun and wind power run out of juice on cloudy and windless days, but the situation here appears more complex. Portugal imports power from Spain, and its electric company, REN, said it had to disconnect when the Spanish network experienced a \"significant oscillation.\"\n\nUnder that theory, a glut of sunlight produced a surplus of solar electricity over a short period, introducing a dangerous imbalance into Spain's grid. Automated circuit breakers shut down everything to prevent a destructive surge from coursing through the entire system.\n\nCommon sense suggests that such things happen when one relies on volatile power sources dependent upon Mother Nature's whims. Many on the left would rather blame the catastrophe on climate change.\n\nThey're right to do so. Madrid's socialist government is obsessed with achieving \"net zero\" carbon dioxide emissions. That's why, in 2023, Spain ordered the decommissioning of all nuclear plants, with the final demolition scheduled in 2035.\n\n\"The renewable transformation in our country is now a reality,\" Spain's electricity provider recently bragged, adding it had \"successfully integrated over 98% of renewable generation at the peninsular level, a figure significantly higher than those recorded by neighbouring European countries.\"\n\nSpain didn't bother accounting for the downside of this strategy. \"When you hitch your wagon to the weather, it's just a risky endeavor,\" U.S. Energy Secretary Chris Wright observed on CNBC. \"Even in standard operating conditions, it's just driven up the price of energy so much in Europe.\"\n\nDespite the volatility and expense, Democrats on this side of the Atlantic want Uncle Sam to continue paying companies to set up wind turbines everywhere. These projects are somehow an act of \"environmental justice\" even though their merciless blades slice through thousands of eagles, hawks and condors every year.\n\nInvestors also saturate once-pristine landscapes with massive solar arrays, hoping to turn those environmental subsidies into big profits. Thanks to November's election results, however, this madness is ending. President Trump has canceled permits for offshore windmill installations.\n\nThe Interior Department has ordered Empire Offshore Wind to halt construction on a massive project for the New York Power Authority and Consolidated Edison. Manhattan liberals, like Spain, were gung-ho about doing whatever it took to increase their renewable bragging rights.",
+            "source": {
+                "uri": "washingtontimes.com",
+                "dataType": "news",
+                "title": "Washington Times"
+            },
+            "authors": [
+                {
+                    "uri": "editorial_board@washingtontimes.com",
+                    "name": "Editorial Board",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://twt-thumbs.washtimes.com/media/image/2025/04/29/Spain_Power_Outage_11117_c0-251-6000-3749_s1770x1032.jpg?21cd7831eab7ad0be624c464dc808fe93f3b603e",
+            "eventUri": null,
+            "sentiment": 0.05882352941176472,
+            "wgt": 483823596,
+            "relevance": 2,
+            "bc_solutions_wont_work_sentence": "Common sense suggests that such things happen when one relies on volatile power sources dependent upon Mother Nature's whims.",
+            "bc_science_movement_unrel_sentence": "Despite the volatility and expense, Democrats on this side of the Atlantic want Uncle Sam to continue paying companies to set up wind turbines everywhere.",
+            "sc_clean_energy_unreliable_sentence": "Common sense suggests that such things happen when one relies on volatile power sources dependent upon Mother Nature's whims.",
+            "sc_policies_negative_sentence": "Despite the volatility and expense, Democrats on this side of the Atlantic want Uncle Sam to continue paying companies to set up wind turbines everywhere."
+        },
+        {
+            "uri": "2025-05-707276316",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "19:23:35",
+            "dateTime": "2025-05-01T19:23:35Z",
+            "dateTimePub": "2025-05-01T18:44:31Z",
+            "dataType": "news",
+            "sim": 0.8196078538894653,
+            "url": "https://www.newsmax.com/newsfront/florida-delaware-trump-media/2025/05/01/id/1209150/",
+            "title": "Trump Media Officially Quits Delaware for 'Pro-business' Florida",
+            "body": "President Donald Trump's media company, Trump Media & Technology Group, has moved to Florida from Delaware, citing \"corporate lawfare by woke activists.\"\n\n\"We're thrilled to reincorporate our Company in Florida. With its pro-business orientation and respect for the rule of law, Florida is a great place for Trump Media to officially call home,\" Trump Media CEO and Chairman Devin Nunes said in a statement.\n\nMany high-profile companies have left Delaware, including Tesla, SpaceX, Pershing Square Capital Management, Mercado Libre, and Dropbox, among others. Meta and Walmart are considering leaving for Texas or another state, according to The Wall Street Journal.\n\nSpaceX and Tesla CEO Elon Musk said he made his decision after a Delaware judge struck down a $55 billion compensation package for him.\n\nFlorida Attorney General James Uthmeier welcomed Trump Media's news.\n\n\"As Delaware becomes the home of corporate lawfare by woke activists, @realDonaldTrump knows that Florida is where woke goes to die, free speech thrives, and businesses can get back to the business of doing business,\" he said on Wednesday.\n\nSolange Reyner \u2709\n\nSolange Reyner is a writer and editor for Newsmax. She has more than 15 years in the journalism industry reporting and covering news, sports and politics.",
+            "source": {
+                "uri": "newsmax.com",
+                "dataType": "news",
+                "title": "NewsMax"
+            },
+            "authors": [
+                {
+                    "uri": "solange_reyner@newsmax.com",
+                    "name": "Solange Reyner",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=dc8b5f7e-5408-46ea-91b1-b6ab0942f004&SiteName=Newsmax&maxsidesize=280",
+            "eventUri": "eng-10578450",
+            "sentiment": 0.1450980392156862,
+            "wgt": 483823415,
+            "relevance": 2
+        }
+    ]
+}

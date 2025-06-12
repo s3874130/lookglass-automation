@@ -1,0 +1,143 @@
+{
+    "articles": [
+        {
+            "uri": "8659877365",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "19:43:01",
+            "dateTime": "2025-05-01T19:43:01Z",
+            "dateTimePub": "2025-05-01T19:34:26Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.foxnews.com/politics/fox-news-politics-newsletter-waltz-ing-up-turtle-bay",
+            "title": "Fox News Politics Newsletter: Waltz-ing Up to Turtle Bay",
+            "body": "Welcome to the Fox News Politics newsletter, with the latest updates on the Trump administration, Capitol Hill and more Fox News politics content.\n\nHere's what's happening...\n\n-Kamala Harris comes knives out against Trump in first speech since leaving office: 'Absolute chaos'\n\nPresident Donald Trump tapped former national security advisor Mike Waltz for his administration's ambassador to the United Nations after Waltz was ousted from the National Security Council office earlier Thursday.\n\n\"I am pleased to announce that I will be nominating Mike Waltz to be the next United States Ambassador to the United Nations,\" Trump posted to Truth Social Thursday.\n\n\"From his time in uniform on the battlefield, in Congress and, as my National Security Advisor, Mike Waltz has worked hard to put our Nation's Interests first. I know he will do the same in his new role. In the interim, Secretary of State Marco Rubio will serve as National Security Advisor, while continuing his strong leadership at the State Department. Together, we will continue to fight tirelessly to Make America, and the World, SAFE AGAIN. Thank you for your attention to this matter!\" ...READ MORE\n\nSTAND STRONG: Parents of Hamas hostages urge Trump to be 'tough with enemies and friends' as Israel continues military operations in Gaza\n\n'DEI STRANGULATION': White House vows to implement 'system of merit' in US, dismantle DEI 'strangulation'\n\n'SIGNAL GATE': Dems say Trump 'firing the wrong guy' as Waltz ousted as national security advisor\n\n'BRINGING RELIGION BACK': Trump jokes his admin will 'forget about' separation of church and state\n\nLEADERS OF FAITH: Trump executive order will stand up presidential religious liberty commission\n\n'YOUR FATE': CIA videos aim to turn Chinese officials and 'steal secrets'\n\nSHIFTING BLAME: China blames US for origin of COVID-19 and turning 'deaf ear to the numerous questions over its conduct'\n\n'SHAKEN': Israel cancels Independence Day celebrations as wildfires rage through country\n\nOFF THE ROAD: Trucking vet lawmaker sounds off on illegal immigrant drivers as REAL ID deadline looms\n\nTAX TIME: Republicans discuss defunding 'big abortion' like Planned Parenthood in Trump agenda bill\n\nREPORTER'S NOTEBOOK: Where we stand with Trump's 'big, beautiful bill'\n\nEDUCATION FREEDOM: School choice supporters protest exclusion of religious charter in Supreme Court case\n\nGRACE UNDER FIRE: Former Air Force Major who defied Biden vaccine mandate speaks out, applauds Hegseth\n\nHUNTER BACKS OFF: Hunter Biden drops lawsuit against IRS, which whistleblowers say 'shows you everything you need to know'\n\n'POWERFUL METAPHOR': Harris draws social media scorn for digression about elephants during an earthquake\n\n'MISSION-MINDED FOCUS': HUD Secretary Scott Turner lays out agency wins during first 100 days, shares priorities for next 100\n\nHISTORY OF VIOLENCE: Columbia student activist interviewed by FBI for allegedly saying 'I like to kill Jews': court docs\n\n'RESIDENT ALIENS': DOGE says it's referred dozens of potential voter fraud cases to DOJ\n\nWAR MODE: Hegseth orders sweeping Army overhaul and consolidation aimed at countering China and Golden Dome capabilities",
+            "source": {
+                "uri": "foxnews.com",
+                "dataType": "news",
+                "title": "Fox News"
+            },
+            "authors": [],
+            "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/1024/512/waltztrmp.png?ve=1&tl=1",
+            "eventUri": null,
+            "sentiment": 0.4274509803921569,
+            "wgt": 483824581,
+            "relevance": 2
+        },
+        {
+            "uri": "2025-05-707286874",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "19:39:09",
+            "dateTime": "2025-05-01T19:39:09Z",
+            "dateTimePub": "2025-05-01T19:29:51Z",
+            "dataType": "news",
+            "sim": 0.6313725709915161,
+            "url": "https://www.nytimes.com/2025/05/01/world/africa/kenya-killing-charles-were.html",
+            "title": "Kenyan Lawmaker Is Shot Dead by Motorcycle-Riding Assailant",
+            "body": "An opposition politician was killed in the heart of Nairobi on Wednesday, according to the police.\n\nA Kenyan lawmaker was gunned down on a busy Nairobi street by a motorcycle-riding assassin on Wednesday evening, in what the police described as a \"targeted and premeditated\" attack.\n\nThe lawmaker, Charles Were, who was serving a second term in Parliament, was in a vehicle stopped at a traffic light when he was killed, the police said. Witnesses reported that a person riding on the back of a motorcycle had hopped off and shot into the passenger side of Mr. Were's car before being whisked away by the motorcycle's driver, the police said.\n\nA motive was not immediately clear. Muchiri Nyaga, a police spokesman, said in a statement on Wednesday that it was too early for the authorities to provide additional details.\n\nPresident William Ruto of Kenya called on the police to \"conduct a thorough investigation\" and expressed his condolences to Mr. Were's family. \"Those responsible must be held to account,\" he said in a statement on Thursday.\n\nThe police said the driver and another passenger in the car were unharmed in the shooting and quickly drove Mr. Were to Nairobi Hospital, where he was pronounced dead upon arrival.\n\nMr. Were was re-elected to Parliament in 2022 as a member of the Orange Democratic Movement, the opposition party led by Raila Odinga, Mr. Ruto's main rival in the previous general election.\n\nMr. Odinga, in a statement on Thursday, compared the daytime shooting to \"a gangland-style execution\" that was \"shockingly barbaric.\"\n\nKenya has a reputation as a relatively stable nation in a volatile region. Frustration with the government hit a new high last year during deadly protests against a tax increase. Dozens of people were abducted or arbitrarily detained by security forces, according to activists and human rights groups.\n\nMr. Ruto promoted the tax increase as a necessary measure to curb the country's staggering debt.\n\nA wealthy businessman who grew up poor, Mr. Ruto campaigned on a platform of improving the economy for Kenyans. His critics say that had not happened.\n\nAbdi Latif Dahir contributed reporting.",
+            "source": {
+                "uri": "nytimes.com",
+                "dataType": "news",
+                "title": "The New York Times"
+            },
+            "authors": [
+                {
+                    "uri": "eve_sampson@nytimes.com",
+                    "name": "Eve Sampson",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://static01.nyt.com/images/2025/05/01/multimedia/01kenya-1-tlzq/01kenya-1-tlzq-videoSixteenByNine3000.jpg",
+            "eventUri": "eng-10570700",
+            "sentiment": -0.2862745098039216,
+            "wgt": 483824349,
+            "relevance": 2
+        },
+        {
+            "uri": "2025-05-707286873",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "19:38:50",
+            "dateTime": "2025-05-01T19:38:50Z",
+            "dateTimePub": "2025-05-01T19:34:51Z",
+            "dataType": "news",
+            "sim": 0.6235294342041016,
+            "url": "https://www.nytimes.com/2025/05/01/climate/michigan-hawaii-climate-lawsuits.html",
+            "title": "Hawaii Announced a Climate Lawsuit. So the Government Sued Hawaii First.",
+            "body": "In an unusual move, the Trump administration pre-emptively sued Hawaii and Michigan to try to stop them from suing oil companies over global warming.\n\nOn Monday, Gov. Josh Green of Hawaii said his state intended to sue fossil fuel companies over their role in climate change to make them pay for damage from its effects, like the 2023 wildfires that devastated Maui.\n\n\"I guess this might be breaking news,\" he said during an interview on local television. \"We will be filing suit.\"\n\nOn Wednesday, the Trump administration sued Hawaii first, seeking to block the lawsuit before it could even be filed.\n\nThe Justice Department also filed a nearly identical suit against Michigan, where Attorney General Dana Nessel has retained three private law firms to pursue climate change litigation but has not yet sued. The main thrust of the administration's argument is that the federal government should determine national energy policy, not individual states.\n\nLegal experts said it was highly unusual to sue to block other lawsuits that have yet to be filed.\n\nNine Democratic-led states have already sued fossil fuel companies over climate change, along with dozens of municipalities around the country. The oil industry and its allies have tried to get those cases thrown out by making similar arguments to the ones put forth in the Justice Department filings this week.\n\nThe Justice Department did not immediately respond to requests for comment.\n\nIts two lawsuits cite President Trump's April 8 executive order, \"Protecting American Energy From State Overreach,\" which argued that state policies inhibiting the energy industry weaken national security and drive up costs for Americans. It also said that the other lawsuits already filed by states over climate change could result in \"crippling\" damages to oil companies being sued.\n\nMichael Gerrard, director of the Sabin Center for Climate Change Law at Columbia University, said it was \"at least highly unusual\" to try and preemptively block lawsuits. \"The usual procedure would be to move to intervene in existing lawsuits,\" he said. \"I've never heard of a situation where a lawsuit is filed to seek an injunction against somebody else filing a lawsuit.\"\n\nHe predicted that such a legal strategy would not fare well. \"Procedurally, it's wacky,\" he said.\n\nBoth suits, filed in federal courts in Hawaii and Michigan, named the state, its governor and attorney general. The offices of Mr. Green and the Hawaii attorney general, Anne Lopez, did not immediately respond to requests for comment.\n\nMs. Nessel called the lawsuit \"at best frivolous and arguably sanctionable.\" She said Mr. Trump had \"made clear he will answer any and every beck and call from his Big Oil campaign donors\" and called the lawsuits \"perhaps the most surprising debasement of both the White House and D.O.J. yet.\"\n\nThe states that have already sued are California, Connecticut, Delaware, Maine, Massachusetts, Minnesota, New Jersey, Rhode Island and Vermont.",
+            "source": {
+                "uri": "nytimes.com",
+                "dataType": "news",
+                "title": "The New York Times"
+            },
+            "authors": [
+                {
+                    "uri": "karen_zraick@nytimes.com",
+                    "name": "Karen Zraick",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://static01.nyt.com/images/2025/05/01/multimedia/01cli-climate-lawsuits-pqmb/01cli-climate-lawsuits-pqmb-videoSixteenByNine3000.jpg",
+            "eventUri": "eng-10572332",
+            "sentiment": -0.1843137254901961,
+            "wgt": 483824330,
+            "relevance": 6
+        },
+        {
+            "uri": "2025-05-707284103",
+            "lang": "eng",
+            "isDuplicate": true,
+            "date": "2025-05-01",
+            "time": "19:34:48",
+            "dateTime": "2025-05-01T19:34:48Z",
+            "dateTimePub": "2025-05-01T09:41:39Z",
+            "dataType": "news",
+            "sim": 0.9058823585510254,
+            "url": "https://www.washingtontimes.com/news/2025/may/1/thousands-serbia-mark-six-months-since-train-station-canopy-crash/",
+            "title": "Thousands in Serbia mark 6 months since a train station canopy crash that triggered mass protests",
+            "body": "BELGRADE, Serbia -- Thousands of people in Serbia on Thursday marked six months since a train station tragedy in the country's north killed 16 people and triggered a wave of anti-corruption protests that have shaken populist President Aleksandar Vucic's tight grip on power.\n\nWorkers' unions joined university students in Belgrade, Serbia's capital, to demand changes in labor and strike laws as part of Labor Day protests. In the northern city of Novi Sad, residents left flowers and lit candles outside the central station where tons of concrete crashed on the people standing or sitting underneath on Nov. 1.\n\nMany in Serbia blamed alleged rampant government corruption fueling negligence and disrespect of safety regulations for the tragedy. The concrete canopy at the outer wall of the building had been renovated twice before the disaster as part of a major infrastructure deal with Chinese state companies.\n\nAlmost daily protests since the crash have developed into a nationwide movement demanding changes.\n\nThousands marched in Novi Sad on Thursday after holding a commemorative silence for the victims near the station. University students, a key force behind the anti-graft movement, set up a stone monument with an inscription saying: \"Novi Sad remembers.\"\n\n\"Today, we declared the train station building for a memorial site,\" a student told the crowd. \"It will serve as a reminder what happens when corruption takes over the state.\"\n\nIn Belgrade, union flags mixed with student banners outside the Serbian government building in a downtown area as thousands streamed in from various parts of the city for the gathering.\n\n\"Corruption kills!\" said one student, who did not say his name. \"This is why the fight against corruption must be held not only at (student) blockades but also at work place.\"\n\nPopulist supporters of President Vucic meanwhile enjoyed a May Day barbecue, drinks and folk music in a pro-government camp outside the parliament building and in an adjacent park by the presidential palace. The guarded camp, set up weeks ago, also hosted masked ex-paramilitary fighters apparently as protection for Vucic.\n\nVucic has accused the anti-graft protesters of staging a \"color revolution\" under Western instructions to oust him from power and \"destroy\" Serbia. He has organized parallel rallies to counter almost daily street demonstrations that have drawn tens of thousands of people for some of the biggest ever anti-government rallies in the country.\n\nSerbia's populist leader has faced accusations of stifling democratic freedoms, including pressure on the protesting students. In the latest incident on Monday in Novi Sad, police used batons and pepper spray while pushing protesters away from a sports faculty building. Several people were injured.\n\nSerbia is formally seeking European Union membership but the accession process recently has been stalled amid Vucic's increasing authoritarianism.",
+            "source": {
+                "uri": "washingtontimes.com",
+                "dataType": "news",
+                "title": "Washington Times"
+            },
+            "authors": [],
+            "image": "https://twt-thumbs.washtimes.com/media/image/2025/05/01/Serbia_Protests_40858_c0-292-6996-4371_s1770x1032.jpg?194b611fe101db29ba8b5e1d79ef19e7c96cb00e",
+            "eventUri": null,
+            "sentiment": -0.615686274509804,
+            "wgt": 483824088,
+            "relevance": 3
+        },
+        {
+            "uri": "8659868396",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "19:33:39",
+            "dateTime": "2025-05-01T19:33:39Z",
+            "dateTimePub": "2025-05-01T14:29:39Z",
+            "dataType": "news",
+            "sim": 0.6627451181411743,
+            "url": "https://www.dailywire.com/news/trump-admin-deals-blow-to-taxpayer-funded-leftist-activist-training-program",
+            "title": "Trump Admin Deals Blow To Taxpayer-Funded Leftist Activist Training Program",
+            "body": "The Trump administration this week slashed $1 billion in so-called \"mental health\" grants for educational institutions, many of which were going to promote leftist ideology and train leftist activists.\n\nThe Education Department confirmed Wednesday that it was making cuts to grants handed out by the Biden administration ostensibly for the purpose of \"mental health\" because of the focus of many of the recipients on racially-focused programs. In a notice to Congress, the administration said it was going to \"re-envision and re-compete\" the funds allocated for mental health at schools in a gun control bill signed by former President Joe Biden.\n\n\"These grants are intended to improve American students' mental health by funding additional mental health professionals in schools and on campuses,\" Deputy Assistant Secretary for Communications Madison Biedermann said. \"Instead, under the deeply flawed priorities of the Biden Administration, grant recipients used the funding to implement race-based actions like recruiting quotas in ways that have nothing to do with mental health and could hurt the very students the grants are supposed to help.\"\n\nThe move was first reported on Tuesday by Christopher Rufo, who wrote on X that there would be \"no more slush fund for activists under the guise of mental health.\"\n\nIn March, the conservative organization Defending Education put out a report finding that the Department of Education had given at least $100,964,880 in grants to 25 universities to increase their social worker training programs ostensibly for the purpose of mental health. Defending Education found that many of these grants were going to programs steeped in leftist ideology.\n\nThis money was allocated through the Mental Health Service Professional Demonstration Grant Program and the School-Based Mental Health Services Grant Program.\n\nFor example, Portland State University was awarded $1,189,801 by the Department of Education to increase the number of social workers. DEI principles are built into the school's Master of Social Work program, the stated goal of which is to train social workers to dismantle \"systems of oppression; build[] racial equity and social, political, and economic justice.\"\n\n\"The grants were meant to support school counselors and mental health staff. In reality, they became a pipeline for training activist educators steeped in DEI, CRT, and gender ideology. Federal dollars went to universities pushing 'anti-racist social-emotional learning' and racially preferential hiring,\" said Defending Education President Nicki Neily on Thursday. \"Parents want real support for children in crisis, not counselors or social workers trained to divide, shame, and re-educate. Good on the Trump administration for ending this. Now, let's make sure the replacements actually serve students.\"",
+            "source": {
+                "uri": "dailywire.com",
+                "dataType": "news",
+                "title": "The Daily Wire"
+            },
+            "authors": [],
+            "image": "https://dw-wp-production.imgix.net/2025/05/GettyImages-2204719062.jpg?h=800&w=1200&ixlib=react-9.10.0",
+            "eventUri": "eng-10568773",
+            "sentiment": 0.1294117647058823,
+            "wgt": 483824019,
+            "relevance": 2
+        }
+    ]
+}

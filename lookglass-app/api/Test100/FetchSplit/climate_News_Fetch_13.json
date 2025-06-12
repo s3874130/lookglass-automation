@@ -1,0 +1,143 @@
+{
+    "articles": [
+        {
+            "uri": "8659825492",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "18:45:56",
+            "dateTime": "2025-05-01T18:45:56Z",
+            "dateTimePub": "2025-05-01T18:45:20Z",
+            "dataType": "news",
+            "sim": 0.7254902124404907,
+            "url": "https://nypost.com/2025/05/01/business/mercedes-to-build-new-car-at-alabama-plant-in-response-to-trump-tariffs/",
+            "title": "Mercedes ramps up investment in America in wake of Trump's aggressive...",
+            "body": "Mercedes-Benz plans to begin producing a new vehicle at its plant near Tuscaloosa, Ala., in 2027, the company said Thursday, the latest in a series of investments carmakers have announced following President Trump's aggressive auto tariffs.\n\nThe German automaker didn't disclose which vehicle it would add to its Tuscaloosa plant, only saying it would be a \"core vehicle segment\" that would \"deepen its commitment to the US\"\n\nTrump's 25% levies on automotive imports have rocked the global automotive industry, although this week he offered a reprieve on some elements of the tariffs.\n\nAn analysis released by the Center for Automotive Research in early April found that the 25% auto tariffs would increase costs by about $108 billion for automakers in the US in 2025.\n\nHyundai, GM and other automakers have boosted US output or announced investments in response to the levies.\n\nMercedes this week pulled its earnings guidance amid tariff uncertainty. The automaker is facing hurdles in all its major markets, from Trump's tariffs, to competition from fast-moving rivals in China and new CO2 emissions targets in the European Union.\n\nThe company's Alabama plant currently produces the GLE, GLS, GLE Coupe, Mercedes-Maybach GLS, as well as the EQE SUV, EQS SUV, and Mercedes-Maybach EQS SUV for all global markets.",
+            "source": {
+                "uri": "nypost.com",
+                "dataType": "news",
+                "title": "New York Post"
+            },
+            "authors": [],
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2025/05/103648754.jpg?quality=75&strip=all&w=1024",
+            "eventUri": "eng-10572064",
+            "sentiment": 0.1215686274509804,
+            "wgt": 483821156,
+            "relevance": 1
+        },
+        {
+            "uri": "8659813264",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "18:34:50",
+            "dateTime": "2025-05-01T18:34:50Z",
+            "dateTimePub": "2025-05-01T18:34:20Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.afr.com/markets/equity-markets/asx-to-open-lower-as-tech-stocks-buoy-wall-st-20250501-p5lvxa",
+            "title": "ASX 200 LIVE: ASX to open lower as tech stocks buoy Wall St",
+            "body": "Australian shares are poised to open lower but big tech earnings helped US stocks recover losses sparked by tariff woes.\n\nThe S&P 500 was up 1.2% in afternoon trading and heading for an eighth straight gain, which would be its longest winning streak since August. Treasury yields rose, with the 10-year rate around 4.22%. A dollar index climbed on reports that Donald Trump's administration reached out to China to start tariff talks.\n\nMicrosoft jumped 8.6%. Meta stock climbed 5.1%.\n\nTech earnings are largely driving optimism in the markets along with expectations that trade deals will offer many countries a reprieve from the highest tariffs first unveiled April 2.\n\nASX futures are pointing down 15 points or -0.2 per cent to 8147\n\nAll US prices are as of 2.30pm New York time.\n\nAustralian data includes PPI and retail sales Q1. In the US, investors will look to unemployment figures (non-farm payrolls).\n\nApple and Amazon are set to report today. On Friday, it's the turn of Chevron and Exxon.\n\nBig spending Labor and Coalition give up on surplus budgets | Both parties have made roughly $78 billion each in pledges, waving the white flag on lifting the budget out of deficit.\n\nLabor fighting to retain majority government | Labor is on track for minority government, but majority is proving tougher. Peter Dutton is tanking.\n\nBishop stares down critics: 'I turn down many more roles than I take on' | Julie Bishop has built one of the most intriguing post-political careers this country has ever seen - and is generating almost as many headlines as before.\n\nPlease exclaim: Hanson's surging support set to pay off in Senate | One Nation could double its Senate numbers as the right-wing minor party pulls in disaffected voters.\n\nThis seat is an election 'jewel'. Teals and Libs have spent $1m - each | Cash has flooded in to the race for the formerly safe Liberal seat of Curtin as the party stakes its hopes of rolling back the teal wave nationally on defeating Climate 200-backed Kate Chaney.",
+            "source": {
+                "uri": "afr.com",
+                "dataType": "news",
+                "title": "Australian Financial Review"
+            },
+            "authors": [],
+            "image": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/31ea95af7715b9f2190989d0f22b0cb9ed4346fc0098603d1503e45248e4597b",
+            "eventUri": null,
+            "sentiment": 0.04313725490196085,
+            "wgt": 483820490,
+            "relevance": 1
+        },
+        {
+            "uri": "8659805421",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "18:26:27",
+            "dateTime": "2025-05-01T18:26:27Z",
+            "dateTimePub": "2025-05-01T18:12:46Z",
+            "dataType": "news",
+            "sim": 0.7372549176216125,
+            "url": "https://www.foxnews.com/politics/republican-gov-slams-city-considering-antisemitic-resolution-threatens-pull-funding",
+            "title": "Republican gov slams city for considering 'antisemitic' resolution, threatens to pull funding",
+            "body": "Fox News correspondent Brooke Taylor has the latest on anti-Israel protests plaguing college campuses on 'America Reports.'\n\nA city in Texas could lose its state funding over a resolution calling for a ceasefire in Gaza and an arms embargo against Israel. Gov. Greg Abbott, R-Texas, wrote a letter to San Marcos Mayor Jane Hughson admonishing the City Council, which voted to bring the resolution to a formal vote on May 6.\n\nIn his letter, Abbott pointed out that while the council was considering a resolution for a \"permanent ceasefire in occupied Palestine,\" it had not done the same to condemn Hamas following the Oct. 7 massacre.\n\nUT AUSTIN ANTI-ISRAEL AGITATORS FREED AFTER GOVERNOR SAID THEY 'BELONG IN JAIL'\n\n\"Israel is a stalwart ally of the United States and a friend to Texas. I have repeatedly made clear that Texas will not tolerate antisemitism. Anti-Israel policies are anti-Texas policies,\" Abbott wrote.\n\nThe governor said he was \"proud\" to have signed a law banning Texas government entities from supporting efforts to boycott, divest from and sanction (BDS) Israel. The BDS movement argues that Israel should not receive financial support due to its actions in the Gaza Strip and the West Bank.\n\nABBOTT SIGNS EXECUTIVE ORDER TO CURB ANTISEMITISM ON TEXAS CAMPUSES, DEMANDS 'APPROPRIATE PUNISHMENTS'\n\nTexas law, specifically Code § 2271.002, states that government entities are prohibited from entering into a contract worth $100,000 or more without a written guarantee that the contracting entity does not boycott Israel. Under the law, \"boycott Israel\" is defined as \"refusing to deal with, terminating business activities with, or otherwise taking any action that is intended to penalize, inflict economic harm on, or limit commercial relations specifically with Israel...\" Government entities that violate the law put their funding at risk.\n\nAbbott wrote in his letter that his office had already begun \"reviewing active grants with San Marcos to determine whether the city has breached terms by falsely certifying compliance with Texas law.\" Additionally, he said that if the city moves to pass the resolution, his office would not enter into future grant agreements with the city and would terminate active grants.\n\nUT AUSTIN PROTESTS DESCEND INTO CHAOS, ANTI-ISRAEL STUDENTS YELL AT POLICE: 'PIGS GO HOME!'\n\nThe City Council agenda description of the April 15 discussion read: \"Hold a discussion regarding a possible resolution calling for the immediate and permanent ceasefire in occupied Palestine, an arms embargo on Israel, recognition of Palestinian sovereignty, and the protection of constitutional rights for all people under national and international law.\"\n\nSan Marcos City Council member Alyssa Garza, who apparently put the resolution on the agenda, spoke at the April 15 meeting, framing the resolution as a way to fight big government. Garza listed the ways in which she believes larger government entities are threatening smaller ones and insisted that Texans could not rely on the same government \"to stop a genocide.\"\n\n\"[It's] clear to me that when they fund bombs, but cut aid for housing and education and so on here, that's connected. When they silence protests here and crush dissent abroad, that's connected. When they defund local governments and nonprofits and they call us 'distractive' for standing up, that's absolutely connected,\" Garza said.\n\nGAZA CEASEFIRE NEGOTIATIONS SEEING 'SIGNIFICANT BREAKTHROUGH' IN CAIRO: SOURCES\n\nAnother council member, Amanda Rodriguez, said the resolution wasn't political, but rather a \"moral litmus test.\" She also described the war in Gaza as a \"genocide.\" Additionally, Rodriguez made a plea to Jews who did not attend the meeting because \"there has been such a conflation with this resolution being compared to antisemitism.\" As part of the plea, she then said, \"You cannot tell me that Judaism as a religion supports this.\"\n\nCLICK HERE TO GET THE FOX NEWS APP\n\nIn just five days, the San Marcos City Council is set to vote on the resolution and if it passes, Abbott's office is expected to evaluate its grants to the city.\n\nHughson, Garza and Rodriguez have yet to respond to a Fox News Digital request for comment.",
+            "source": {
+                "uri": "foxnews.com",
+                "dataType": "news",
+                "title": "Fox News"
+            },
+            "authors": [
+                {
+                    "uri": "rachel_wolf@foxnews.com",
+                    "name": "Rachel Wolf",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1024/512/GettyImages-2107849890-scaled-e1714473576739.jpg?ve=1&tl=1",
+            "eventUri": "eng-10569154",
+            "sentiment": -0.03529411764705881,
+            "wgt": 483819987,
+            "relevance": 2
+        },
+        {
+            "uri": "8659801989",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "18:22:20",
+            "dateTime": "2025-05-01T18:22:20Z",
+            "dateTimePub": "2025-05-01T13:10:37Z",
+            "dataType": "news",
+            "sim": 0.6823529601097107,
+            "url": "https://www.dailywire.com/news/neil-young-slammed-for-new-anti-tesla-song-peak-washed-up-hippie-cringe",
+            "title": "Neil Young Slammed For New Anti-Tesla Song: 'Peak Washed-Up Hippie Cringe'",
+            "body": "Neil Young is facing criticism for a new song he wrote about \"fascists\" buying Teslas.\n\nThe 79-year-old singer-songwriter debuted the song, reportedly titled \"Let's Roll Again,\" at the Light Up the Blue charity concert in Los Angeles over the weekend.\n\n\"If you're a fascist, get a Tesla / It's electric, it doesn't matter / If you're a Democrat, taste your freedom / Get whatever you want, taste your freedom,\" Young could be heard singing in clips circulating on social media.\n\n\"Come on Ford, come on GM / Come on Chrysler, let's roll again,\" the song continued. \"Build something special that people need / Build us a safe way for us to meet / Build something that won't kill our kids / Runs real clean.\"\n\n\"Come on America, let's get in the race / China's way ahead, they're making clean cars,\" Young sang.\n\nResponses on social media have been full of mockery.\n\n\"Neil Young waddling up to a mic like a deranged scarecrow, screeching out his geriatric fever dream of a protest song, is peak washed-up hippie cringe,\" one X user wrote. \"Neil, you sound like a college freshman who just discovered Reddit and thinks quoting China makes them deep... Time to unplug his amp and his internet, he's gone full granola lunatic.\"\n\n\"Imagine 25-year-old Neil Young seeing what a boorish square he would become,\" another person agreed.\n\n\"Another washed up slob,\" political commentator Mark Levin said.\n\nThe new song comes as Elon Musk's car company reported a 71% earnings drop over the past three months when compared to the first quarter of last year. This decline was driven in part by frequent protests over Musk working with President Donald Trump on the Department of Government Efficiency (DOGE) initiative.\n\nRecently, Young said he was afraid Trump wouldn't allow him back into the country after his upcoming European tour.\n\n\"When I go to play music in Europe, if I talk about Donald J. Trump, I may be one of those returning to America who is barred or put in jail to sleep on a cement floor with an aluminum blanket,\" he wrote on his website. \"That is happening all the time now. Countries have new advice for those returning to America.\"",
+            "source": {
+                "uri": "dailywire.com",
+                "dataType": "news",
+                "title": "The Daily Wire"
+            },
+            "authors": [],
+            "image": "https://dw-wp-production.imgix.net/2025/05/Neil-Young.jpg?h=800&w=1200&ixlib=react-9.10.0",
+            "eventUri": "eng-10566745",
+            "sentiment": 0.192156862745098,
+            "wgt": 483819740,
+            "relevance": 2
+        },
+        {
+            "uri": "2025-05-707239377",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "18:22:16",
+            "dateTime": "2025-05-01T18:22:16Z",
+            "dateTimePub": "2025-05-01T09:21:51Z",
+            "dataType": "news",
+            "sim": 0.886274516582489,
+            "url": "https://www.washingtontimes.com/news/2025/may/1/several-countries-send-firefighting-planes-israel-help-tackle-major/",
+            "title": "Several countries sending firefighting planes to Israel to help tackle major wildfire",
+            "body": "JERUSALEM -- Several countries were sending firefighting aircraft to Israel on Thursday as crews battled for a second day to extinguish a wildfire that had shut down a major highway linking Tel Aviv and Jerusalem and sent drivers scrambling from their cars.\n\nThe fire broke out around midday in the hills outside Jerusalem on Wednesday, fueled by hot, dry conditions and fanned by strong winds that quickly whipped up the flames burning through pine forests. Several communities were evacuated as a precaution as the smoke turned the skies over Jerusalem gray. Many of the country's independence day celebrations were cancelled as security forces were diverted towards the fire.\n\nThe fire has burned about 5,000 acres (20 square kilometers) and is the most significant fire Israel has seen in the past decade, according to Tal Volvovitch, a spokesperson for Israel's fire and rescue authority. She said the fire has \"miraculously\" not damaged any homes.\n\nIsrael's fire and rescue authority warned the public to stay away from parks or forests, and to be exceptionally careful while lighting barbecues. Thursday is Israel's Independence Day, which is typically marked with large family cookouts in parks and forests.\n\nAt least 12 people were treated in hospitals on Wednesday, mainly due to smoke inhalation, while another 10 people were treated in the field, Magen David Adom Ambulance services said. Twenty firefighters have been lightly injured, Volvovitch said.\n\nItaly, Croatia, Spain, France, Ukraine, and Romania were sending planes to help battle the flames, while several other countries, including North Macedonia and Cyprus, were also sending water-dropping aircrafts. Israeli authorities said 10 firefighting planes were operating on Thursday morning, with another eight aircraft to arrive during the course of the day.\n\nIsrael's fire and rescue authority lifted the evacuation order on approximately a dozen towns in the Jerusalem hills on Thursday.\n\nThree Catholic religious communities who were forced to evacuate from their properties on Wednesday were also able to return on Thursday, said Farid Jubran, the spokesperson for the Latin Patriarchate. He said their agricultural lands, including vineyards and olive trees, suffered heavy damage, and some of the buildings were damaged. But there were no injuries, and historic churches were not affected.\n\nThe main highway linking Jerusalem to Tel Aviv reopened on Thursday, a day after the flames had encroached on the road, forcing drivers to abandon their cars and flee in terror. On Thursday morning, broad swathes of burned areas were visible from the highway, while pink anti-flame retardant dusted the top of burned trees and bushes. Smoke and the smell of fire hung heavy in the air.\n\nIsrael often sees fires in the summertime, but such strong fires this early in the year are unusual. Many of Israel's forests are planted rather than natural.\n\nOne of the organizations that manages Israel's' forests said that the fires had perfect conditions to spread: a winter with little rain, hot and dry weather, and exceptionally strong winds that are shifting direction constantly.\n\nAnat Gold, the director of Israel's central region for the Jewish National Fund, known by its Hebrew acronym KKL, which manages forests, plants trees, and promotes settlement in the Holy Land, said the fire was mostly contained. But she added that workers were struggling to plow buffer zones and fire breaks as the same spots ignited repeatedly in the quickly changing winds.\n\nGold said climate change, which has resulted in decreased rainfall in the region, contributed to the fire's ferocity. \"Of course when there's a series of drought years, it's a fertile ground for fires,\" she said.\n\nIn 2010, a massive forest fire burned for four days on northern Israel's Mount Carmel, claiming 44 lives and destroying around 12,000 acres, much of it woodland.",
+            "source": {
+                "uri": "washingtontimes.com",
+                "dataType": "news",
+                "title": "Washington Times"
+            },
+            "authors": [
+                {
+                    "uri": "melanie_lidman@washingtontimes.com",
+                    "name": "Melanie Lidman",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://twt-thumbs.washtimes.com/media/image/2025/05/01/Israel_Wildfires_53327_c0-235-5616-3509_s1770x1032.jpg?22449b62918975d4b3a41c3dcdea763d54d91807",
+            "eventUri": "eng-10571022",
+            "sentiment": -0.09019607843137256,
+            "wgt": 483819736,
+            "relevance": 1
+        }
+    ]
+}
