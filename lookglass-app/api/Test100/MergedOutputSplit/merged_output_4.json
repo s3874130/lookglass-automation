@@ -1,0 +1,156 @@
+{
+    "articles": [
+        {
+            "uri": "8659987439",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "21:51:20",
+            "dateTime": "2025-05-01T21:51:20Z",
+            "dateTimePub": "2025-05-01T16:02:57Z",
+            "dataType": "news",
+            "sim": 0.572549045085907,
+            "url": "https://www.infowars.com/posts/watch-brazen-mob-cheers-fugitive-illegal-hiding-in-tree-for-hours-during-ice-arrest/",
+            "title": "WATCH: Brazen Mob Cheers Fugitive Illegal Hiding in Tree for Hours During ICE Arrest",
+            "body": "An illegal alien with an outstanding warrant was apprehended by federal authorities after a standoff lasting more than six hours this week in Texas, according to reports.\n\nThe incident unfolded just after 12:00 p.m. on Wednesday in San Antonio.\n\nImmigration and Customs Enforcement (ICE) attempted to arrest a 29-year-old Guatemalan illegal during a traffic stop when the man fled on foot and climbed up a tree in a residential neighborhood.\n\nThe suspect, who reportedly goes by both Ra\u00fal Ical and Raymundo Caal-Caal, was deported in 2013 after illegally entering the U.S., but illegally returned at a later date, News 4 San Antonio reports.\n\nIn 2024, he was reportedly arrested for drunk driving but released on bail.\n\nThe Guatemalan remained in the tree for hours as activists and local residents of the \"historically Latino neighborhood\" shouted support and encouraged him to defy law enforcement, EFE reports.\n\n\"Don't get off, you have rights,\" one man repeatedly shouted up to the Guatemalan, who told the crowd he was a construction worker.\n\nMembers of the crowd menaced and harassed independent journalist Hernando Arce, who was live-streaming the bust to an audience of thousands of viewers.\n\nNegotiators eventually convinced the Guatemalan to come down and he was taken into custody after more than six hours.\n\nSecretary of Homeland Security Kristi Noem weighed in following the arrest, stating, \"You can run, but you can't hide. Whether in a tree or harbored in an activist judge's house, if you are here illegally, ICE will find you, arrest you, and you will be deported.\"\n\nMore than 150,000 illegal aliens have been apprehended in the U.S. since President Trump took office, many of whom have serious criminal histories.",
+            "source": {
+                "uri": "infowars.com",
+                "dataType": "news",
+                "title": "InfoWars"
+            },
+            "authors": [],
+            "image": "https://imagedelivery.net/aeJ6ID7yrMczwy3WKNnwxg/eebbc19f-b646-45af-0a8a-bddd50c65800/w=800,h=450",
+            "eventUri": "eng-10569210",
+            "sentiment": -0.07450980392156858,
+            "wgt": 483832280,
+            "relevance": 1
+        },
+        {
+            "uri": "8659987105",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "21:51:07",
+            "dateTime": "2025-05-01T21:51:07Z",
+            "dateTimePub": "2025-05-01T21:42:48Z",
+            "dataType": "news",
+            "sim": 0.4196078479290009,
+            "url": "https://www.foxnews.com/us/california-home-suspect-accused-doxing-ice-agents-raided-searched",
+            "title": "California home of suspect accused of doxxing ICE agents raided and searched",
+            "body": "Drone footage shows authorities headed to the Irvine, Calif., home of the suspect early Thursday. (Credit: ICE)\n\nFederal authorities on Thursday searched the California home of a suspect accused of doxxing U.S. Immigration and Customs Enforcement agents.\n\nThe Department of Homeland Security and the U.S. Secret Service served a search warrant on the Irvine home of the unidentified suspect, who was not home at the time.\n\nNo arrests were made.\n\nICE TOUTS RECORD-BREAKING IMMIGRATION ENFORCEMENT DURING TRUMP'S FIRST 100 DAYS\n\nAuthorities told Fox News the suspect lives with his parents and was previously arrested during an anti-Israel protest on the University of California, Irvine, campus last year.\n\nHe is accused of posting fliers in various Southern California neighborhoods with the names, photos, phone numbers and locations of ICE officers working in the region.\n\nDEMOCRAT LAWMAKER DEMANDS CONGRESS ACT ON SECURING US BORDER AFTER 'TRANSPARENT' ICE FACILITY VISIT\n\n\"The men and women of ICE signed up to do a law enforcement mission, and that's what they're doing. They're out there making communities safer,\" acting ICE Director Todd Lyons told Fox News. \"I take it personally because if you have a problem with the men and women of ICE, take it up at Congress, change the federal law or, you know, take it up with me. I represent them, but don't put their families at risk. Don't put them at risk just because they're out there doing their job.\"\n\nEarlier this year, anti-ICE activists began putting up posters featuring the personal information of ICE and Homeland Security Investigations (HSI) officers working in the Los Angeles and Southern California area.\n\n\"CAREFUL WITH THESE FACES,\" the posters said in Spanish.\n\n\"These armed agents work in Southern California. ICE and HSI racially terrorize and criminalize entire communities with their policies. They kidnap people from their homes and from the streets, separating families and fracturing communities. Many people have died while locked up in jails, prisons, and detention centers,\" the posters say.\n\nThe posters were displayed after the Trump administration began arresting and deporting criminal illegal immigrants, a major hallmark of President Donald Trump's campaign.\n\nCLICK HERE TO GET THE FOX NEWS APP\n\n\"These pathetic activists are putting targets on the backs of our law enforcement as they shield MS-13, Tren De Aragua and other vicious gangs that traffic women and children, kidnap for ransom and poison Americans with lethal drugs,\" a Homeland Security spokesperson told Fox News in a statement at the time.\n\n\"These individuals will be held accountable for obstructing the law and justice. This shouldn't be controversial.\"",
+            "source": {
+                "uri": "foxnews.com",
+                "dataType": "news",
+                "title": "Fox News"
+            },
+            "authors": [
+                {
+                    "uri": "louis_casiano@foxnews.com",
+                    "name": "Louis Casiano",
+                    "type": "author",
+                    "isAgency": false
+                },
+                {
+                    "uri": "bill_melugin@foxnews.com",
+                    "name": "Bill Melugin",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/1024/512/socal-flyers-exposing-personal-information-of-ice-agents.png?ve=1&tl=1",
+            "eventUri": "eng-10561735",
+            "sentiment": -0.2784313725490196,
+            "wgt": 483832267,
+            "relevance": 2
+        },
+        {
+            "uri": "8659985405",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "21:48:50",
+            "dateTime": "2025-05-01T21:48:50Z",
+            "dateTimePub": "2025-05-01T21:46:35Z",
+            "dataType": "news",
+            "sim": 0.8823529481887817,
+            "url": "https://nypost.com/2025/05/01/us-news/justice-department-sues-hawaii-michigan-vermont-and-new-york-over-state-climate-actions/",
+            "title": "DOJ drags New York, 3 other states, to court over climate plans...",
+            "body": "The U.S. Justice Department filed lawsuits against four states this week, claiming their climate actions conflict with federal authority and President Donald Trump's energy dominance agenda.\n\nThe DOJ on Wednesday filed lawsuits against Hawaii and Michigan over their planned legal action against fossil fuel companies for harms caused by climate change. On Thursday, the DOJ sued New York and Vermont, challenging their climate superfund laws that would force fossil fuel companies to pay into state-based funds based on previous greenhouse gas emissions.\n\n\"These burdensome and ideologically motivated laws and lawsuits threaten American energy independence and our country's economic and national security,\" Attorney General Pamela Bondi said in a statement. \"The Department of Justice is working to 'Unleash American Energy' by stopping these illegitimate impediments to the production of affordable, reliable energy that Americans deserve.\"\n\nThe DOJ lawsuits, which legal experts say are unprecedented, mark the latest of the Trump administration's attacks on environmental work and raises concern over states' abilities to retain the power to take climate action without federal opposition.\n\nDOJ's court filings said the states' plans and policies \"impermissibly regulate out-of-state greenhouse gas emissions and obstruct the Clean Air Act's comprehensive federal-state framework and EPA's regulatory discretion.\"\n\nThe DOJ cited the Clean Air Act -- a federal law authorizing the Environmental Protection Agency to regulate air emissions -- saying it creates \"a program for regulating air pollution in the United States and \"displaces\" the ability of States to regulate greenhouse gas emissions beyond their borders.\"\n\nDOJ argued Wednesday that Hawaii and Michigan are violating the intent of the Act that enables the EPA authority to set nationwide standards for greenhouse gases, citing the states' expected litigation against oil and gas companies for alleged climate damage.\n\nDemocratic Michigan Attorney General Dana Nessel last year tapped private law firms to go after the fossil fuel industry for negatively affecting the state's climate and environment.\n\nMeanwhile, Democratic Hawaii Governor Josh Green plans to target fossil fuel companies that he said should take responsibility for their role in the state's climate impacts, including 2023's deadly Lahaina wildfire.\n\nWhen burned, fossil fuels release emissions such as carbon dioxide that warm the planet.\n\nA spokesperson for Democratic Michigan Gov. Gretchen Whitmer's office deferred to Nessel when asked for comment.\n\n\"This lawsuit is at best frivolous and arguably sanctionable,\" Nessel said in a statement, which noted that Michigan hasn't filed a lawsuit. \"If the White House or Big Oil wish to challenge our claims, they can do so when our lawsuit is filed; they will not succeed in any attempt to preemptively bar our access to make our claims in the courts. I remain undeterred in my intention to file this lawsuit the President and his Big Oil donors so fear.\"\n\nGreen's office and the Hawaii Attorney General's office did not immediately respond to requests for comment.\n\nMeanwhile, Thursday's filings called the states' Superfund Acts -- modeled on the 45-year-old federal superfund law enacted to address the harm associated with hazardous waste sites -- \"a transparent monetary-extraction scheme.\" Trump has suggested the superfund laws \"extort\" payments from energy entities.\n\nNew York is looking for $75 billion and has been previously challenged by 22 states for the law; Vermont hasn't specified what it is seeking. Both laws were approved last year.\n\n\"By purporting to regulate the effect of greenhouse gas emissions on climate change, the Act necessarily reaches far beyond\" the states of New York and Vermont, the DOJ argued, saying the states are incorrectly looking to regulate nationwide and global airspace.\n\nThe offices of New York Gov. Kathy Hochul, Attorney General Letitia James, Vermont Gov. Phil Scott and Vermont Attorney General Charity Clark did not immediately return emailed requests for comment.\n\n\"At a time when States should be contributing to a national effort to secure reliable sources of domestic energy,\" all four states are choosing \"to stand in the way,\" all four filings said.\n\nIn its filings, the DOJ repeated the Republican president's claims of America's energy emergency and crisis.\n\nBut legal experts raised concern over the government's arguments.\n\nMichael Gerrard, founder and faculty director of the Columbia University Sabin Center for Climate Change Law, said usual procedure is the DOJ asking a court to intervene in pending environmental litigation -- as is the case in some instances across the country.\n\nWhile this week's suits are consistent with Trump's plans to oppose state actions that interfere with energy dominance, \"it's highly unusual,\" Gerrard told The Associated Press of the cases of Hawaii and Michigan. \"What we expected is they would intervene in the pending lawsuits, not to try to preempt or prevent a lawsuit from being filed. It's an aggressive move in support of the fossil fuel industry.\n\n\"It raises all kinds of eyebrows,\" he added. \"It's an intimidation tactic, and it's telling the fossil fuel companies how much Trump loves them.\"\n\nAnn Carlson, an environmental law professor at the University of California, Los Angeles, who has previously consulted on climate litigation, said this week's lawsuits look \"like DOJ grasping at straws,\" noting that EPA Administrator Lee Zeldin said his agency is seeking to overturn a finding under the Clean Air Act that greenhouse gases endanger public health and welfare.\n\n\"So on the one hand the U.S. is saying Michigan, and other states, can't regulate greenhouse gases because the Clean Air Act does so and therefore preempts states from regulating,\" Carlson said. \"On the other hand the U.S. is trying to say that the Clean Air Act should not be used to regulate. The hypocrisy is pretty stunning.\"\n\nTrump's administration has aggressively targeted climate policy in the name of fossil fuel investment. Federal agencies have announced plans to bolster coal power, roll back landmark water and air regulations, block renewable energy sources and double down on oil and gas expansion.",
+            "source": {
+                "uri": "nypost.com",
+                "dataType": "news",
+                "title": "New York Post"
+            },
+            "authors": [],
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-kjtcg03gi-1746135917486.jpg?quality=75&strip=all&1746121565&w=1024",
+            "eventUri": "eng-10572332",
+            "sentiment": 0.1686274509803922,
+            "wgt": 483832130,
+            "relevance": 19
+        },
+        {
+            "uri": "2025-05-707358550",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "21:43:12",
+            "dateTime": "2025-05-01T21:43:12Z",
+            "dateTimePub": "2025-05-01T21:29:58Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.nytimes.com/2025/05/01/us/politics/usaid-isis-trump.html",
+            "title": "U.S. Aid Cutbacks Hurt Efforts to Repatriate Former Islamic State Residents",
+            "body": "Want to stay updated on what's happening in Iraq and Syria? Sign up for Your Places: Global Update, and we'll send our latest coverage to your inbox.\n\nPresident Trump's deep cuts to foreign aid have compromised efforts to repatriate tens of thousands of Islamic State members and their families living in camps in the Syrian desert, three inspectors general said on Wednesday in a report to Congress.\n\nIn the report, the inspectors general described how the cuts had created security lapses, slowed repatriation efforts and interrupted the distribution of humanitarian aid at the sprawling al-Hol camp and other outposts where former Islamic State residents have been held while their home governments try to reintegrate them into society.\n\nThe report was a quarterly update to Congress on the status of the yearslong campaign to defeat ISIS, known as Operation Inherent Resolve. The inspectors general were from the Defense and State departments, as well as from the U.S. Agency for International Development, which was the government's main conduit for distributing foreign aid before the Trump administration largely dismantled it earlier this year.\n\nThe United States policy has been that repatriating residents of camps like al-Hol and its smaller neighbor, Roj, is the only way to keep ISIS from regaining strength in the Middle East. The presence of militants in the camps and the poor living conditions have made them fertile recruiting grounds. U.S. officials have also said repatriations are a necessary step toward relieving the United States of financial responsibility for the camps.\n\nBut major reductions in American aid have hobbled that effort, the report said. No Syrians left al-Hol to return to their homes in the first three months of the year because \"key project activities identifying, preparing, and receiving Syrian returnees were halted,\" according to the inspectors general report.\n\nIn addition, the report said pauses in security funding at al-Hol and Roj had led to periods of looting and protests, and a rise in attempts to smuggle people in and out of the camps. By the end of March, al-Hol housed about 36,000 people, most of them children, while Roj camp had another 2,400. They are not allowed to leave without permission.\n\nDuring the first quarter, about 1,500 families were transported from al-Hol and Roj to a camp just over the border in Iraq called Jeddah 1, which functions as a rehabilitation center for Iraqi returnees and is heavily financed by the United States, the report said. The Trump administration made an exception to the general freeze of foreign aid to provide money to the camp for clean water, health services and waste management.\n\nStill, by the end of the quarter, the Jeddah 1 center \"faced significant challenges in sustaining comprehensive humanitarian support\" because of the termination of U.S.-backed programs to help educate, employ, and integrate returnees into their home communities, the report said.\n\nThere were also shortfalls at Jeddah 1 in services for women and girls who had experienced violence, the inspectors general wrote. An uptick in begging was observed, caused by, among other things, the suspension of cash-for-work programs and delays in the delivery of food rations, the report said.\n\nIn addition, the termination of U.S. support for the World Health Organization has compromised efforts to ensure returnees sent to Jeddah 1 could get medicine, mental health services, and treatment for chronic conditions, the report said -- all of which had previously been considered important to helping people who had been affiliated with or under the influence of ISIS to return to normal life.\n\nThe White House, the Pentagon and the State Department did not immediately respond to a requests for comment about the report.\n\nAll told, Syria lost eight U.S.A.I.D. stabilization awards in the first quarter of the year, bringing its U.S.-backed portfolio of foreign aid projects down to just three. Iraq saw 20 U.S.A.I.D. stabilization awards cut, leaving it with just two.",
+            "source": {
+                "uri": "nytimes.com",
+                "dataType": "news",
+                "title": "The New York Times"
+            },
+            "authors": [
+                {
+                    "uri": "karoun_demirjian@nytimes.com",
+                    "name": "Karoun Demirjian",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://static01.nyt.com/images/2025/05/01/multimedia/01trump-news-usaid-ig-fkmc/01trump-news-usaid-ig-fkmc-videoSixteenByNine3000.jpg",
+            "eventUri": null,
+            "sentiment": -0.06666666666666665,
+            "wgt": 483831792,
+            "relevance": 1
+        },
+        {
+            "uri": "8659968860",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "21:27:17",
+            "dateTime": "2025-05-01T21:27:17Z",
+            "dateTimePub": "2025-05-01T21:17:37Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.foxnews.com/politics/house-republicans-subpoena-usa-fencing-chairman-history-supporting-trans-competitors-womens-sports",
+            "title": "House Republicans subpoena USA fencing chairman with history of supporting trans competitors in women's sports",
+            "body": "Fencer Stephanie Turner reveals why she took herself out of the tournament when faced with a transgender opponent on 'America Reports.'\n\nHouse Republicans have subpoenaed USA Fencing (USFA) board chair Damien Lehfeldt in an effort to compel him to testify in front of Congress during a hearing examining the participation of transgender women in biologically women's sports.\n\nThe subpoena comes after USA Fencing's Chief Executive Officer Phil Andrews told the Subcommittee on Delivering on Government Efficiency, which intends to hold the hearing on May 7, that Lehfeldt would be unavailable to testify for unspecified reasons, according to a letter sent in tandem with the subpoena. Lehfeldt's apparent refusal to cooperate comes after he allegedly made public statements online indicating he had intended to be present at the hearing.\n\n\"Under the Ted Stevens Act, an [National Governing Body] -- such as USFA -- is required to provide equal opportunities to athletes regardless of sex when engaged in developing interest and participation in the sport it governs throughout the United States,\" the letter accompanying the subpoena, signed by GOP House Oversight Chairman James Comer. \"The Subcommittee is concerned that the policies of USFA may not uphold these obligations and that the underlying law is not accomplishing its intended purpose. Therefore, the Subcommittee is investigating whether additional legislation regarding requirements of NGBs of amateur sports, like USFA, is necessary to address these issues.\"\n\nFEMALE FENCER DEFENDS PROTEST AGAINST TRANSGENDER OPPONENT\n\nLehfeldt and Andrews have both publicly expressed their support for allowing transgender women to compete on biological women's sports teams. House Republicans' decision to subpoena Lehfeldt follows an incident when a female fencer named Stephanie Turner was punished by USA Fencing for refusing to compete against a transgender competitor earlier this year.\n\nTurner, during a regional meet in March, refused to compete against a transgender competitor who previously had competed in the men's division. A video of her taking a symbolic knee at the start of the match, eventually earning her a \"black card,\" fencing's most severe penalty, went viral following the incident.\n\nENGLAND SPORTS GOVERNING BODY BANS TRANSGENDER ATHLETES FROM WOMEN'S SOCCER FOLLOWING UK COURT RULING\n\nCLICK HERE TO GET THE FOX NEWS APP\n\n\"In fencing, personally, I see it quite often,\" Turner said following the incident. \"I have witnessed transgender fencers in women's tournaments and girls' tournaments in different age categories, specifically Y-14 (the youngest age group).\"\n\nFox News Digital reached out to USA Fencing for comment but did not immediately receive a response.",
+            "source": {
+                "uri": "foxnews.com",
+                "dataType": "news",
+                "title": "Fox News"
+            },
+            "authors": [
+                {
+                    "uri": "alec_schemmel@foxnews.com",
+                    "name": "Alec Schemmel",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/1024/512/schreiner.jpg?ve=1&tl=1",
+            "eventUri": null,
+            "sentiment": 0.2313725490196079,
+            "wgt": 483830837,
+            "relevance": 1
+        }
+    ]
+}

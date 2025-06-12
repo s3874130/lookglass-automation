@@ -1,0 +1,36 @@
+{
+    "articles": [
+        {
+            "uri": "2024-12-590520161",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2024-12-31",
+            "time": "23:59:35",
+            "dateTime": "2024-12-31T23:59:35Z",
+            "dateTimePub": "2024-12-31T23:46:12Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.abc4.com/sports/utahs-road-winning-streak-ends-in-seattle/",
+            "title": "Utah's road winning streak ends in Seattle",
+            "body": "SEATTLE (AP) - Jaden Schwartz had a goal and two assists for the Seattle Kraken, who pulled away in the third period for a 5-2 win against the Utah Hockey Club at Climate Pledge Arena on Monday.\n\nThe loss ends Utah's seven-game road winning streak.\n\n\"[Points] never come easy,\" Schwartz said. \"... I wasn't happy with how we were playing [before the holiday break]. I think each guy knew that we had a lot more to bring individually and for the team, and we've done a good job of that.\"\n\nYanni Gourde, Andre Burakovsky, Matty Beniers and Jared McCann also scored, and Kaapo Kakko had two assists for the Kraken (17-19-2), who have won two straight after losing their previous five. Philipp Grubauer made 28 saves.\n\n\"We wanted to take the four-day break and the [5-4 come-from-behind overtime win on Saturday] in Vancouver as a reset and get real focused on how we need to play 60 minutes every night,\" Seattle coach Dan Bylsma said. \"Just from the mindset of the shooter's mentality and coming out and being aggressive, being north, the first period was excellent. And that's something we want to continue to build on.\"\n\nLogan Cooley scored to extend his road point streak to 10 games, and Alex Kerfoot also had a goal for Utah (16-14-6), which has lost four straight (0-3-1). Karel Vejmelka made 28 saves.\n\n\"I think all night long was a little bit of the same story. We forced the play too much,\" Utah coach Andre Tourigny said. \"I think we gave up too much. At the end of the day, we were capable of having possession and stuff like that, but we pressed. We're feeling the pressure right now of scoring goals instead of just playing the game [and taking] what is in front of us.\n\n\"We have guys who really want to win, they want to get the result, but they're forcing it and we're our own worst enemy at times.\"\n\nCooley gave Utah a 1-0 lead with a power-play goal at 8:41 of the first period. He scored with a one-timer from the right circle that deflected off Seattle defenseman Adam Larsson's stick under Grubauer.\n\nGourde tied it 1-1 at 18:06 of the first. Vejmelka kicked out Ryker Evans' shot from the left point, but the rebound went right onto the stick of Gourde, who shot past the sprawling goalie.\n\nBurakovsky gave Seattle a 2-1 lead just 51 seconds later, redirecting Schwartz's wrist shot from the top of the right circle five-hole on Vejmelka.\n\n\"The first look that I was looking for kind of got closed off,\" Schwartz said. \"Then I saw [Burakovsky] going to the net, and I was kind of flat-footed, so I just tried to get it in the direction of the net, and he did a good job of getting there and getting a stick on it.\"\n\nKerfoot tied it 2-2 at 19:01 of the second period, skating into Michael Carcone's rebound in the left circle and lifting a shot over Grubauer's blocker.\n\n\"I'm playing with some high-IQ guys,\" Carcone said. \"They want me to take the puck wide and get it to the net, and they know that it's going to go there, and I know they're going to be there. So, that's working out.\"\n\nSchwartz put Seattle back in front 3-2 at 7:22 of the third period, receiving a stretch pass from Kakko and snapping a shot between Vejmelka's pads on a breakaway.\n\n\"It was a good turnover, and I just heard the whole bench and all the fans yelling, 'Pass the puck! It's going to be a breakaway!'\" Kakko said. \"So, I tried to get it there, and I don't know, maybe a little lucky, but it gets there and nice finish [by Schwartz].\"\n\nBeniers pushed it to 4-2 at 11:09 after he received another pass from Kakko for a partial breakaway. Although he fanned on his initial attempt, he retrieved the puck below the goal line and quickly banked a shot in off Vejmelka's left pad.\n\n\"[Beniers and Kakko] are talking, they're getting together, they're communicating together with Schwartz,\" Bylsma said. \"'What are we going to do on this play, the next play? How are we going to do it? Will you be there? I'll be there.'",
+            "source": {
+                "uri": "abc4.com",
+                "dataType": "news",
+                "title": "ABC 4"
+            },
+            "authors": [
+                {
+                    "uri": "dana_greene@abc4.com",
+                    "name": "Dana Greene",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://www.abc4.com/wp-content/uploads/sites/4/2024/12/AP24366108520798.jpg?strip=1&w=640",
+            "eventUri": null,
+            "sentiment": 0.3254901960784313,
+            "wgt": 473385575,
+            "relevance": 3
+        }
+    ]
+}

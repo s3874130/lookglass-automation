@@ -1,0 +1,150 @@
+{
+    "articles": [
+        {
+            "uri": "8659776326",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "17:56:12",
+            "dateTime": "2025-05-01T17:56:12Z",
+            "dateTimePub": "2025-05-01T17:50:05Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.theguardian.com/environment/2025/may/01/planning-bill-developers-nature-green-spaces",
+            "title": "Planning bill could allow developers to build without replacing local nature",
+            "body": "Green spaces created to offset removal of others may not have to be in same county, sources at Defra say\n\nHousing developers will be able to build on once-protected green spaces without having to replace the loss of nature in the nearby area, the Guardian understands.\n\nNew nature areas, parks and community gardens created to offset the removal of green spaces to make way for housing developments may not even have to be in the same county, under the new planning and infrastructure bill, sources at the Department for Environment, Food and Rural Affairs said on Thursday.\n\nThe planning and infrastructure bill, which is currently at committee stage, has provisions to allow developers to build on green spaces and remove nature from local areas, if they pay into a fund which will create habitats elsewhere. The aim is to streamline regulations for developers so they can speed up their projects and the Labour government can meet its target for delivering 1.5m new homes by the end of this parliament in 2029.\n\nThe poorest rural communities, who often live in areas badly served by public transport, may lose their access to green space under this bill, campaigners have said.\n\nAli Plummer, director of policy and advocacy at Wildlife and Countryside Link, said: \"Leaving it on a wing and a prayer that loss of nature locally won't be offset into potentially another county does not give the certainty and safeguards that local people and the local environment need.\n\n\"A third of communities around the country already have little or no access to nature locally, contributing to the likelihood of poorer mental and physical health.\"\n\nParks in poorer parts of England are less likely to be protected against being built on than those in more affluent areas, and 2.8 million people in the UK live more than 10 minutes walk from a public park, garden or playing field.\n\nDefra sources said ideally lost nature and green space would be as close as possible to where it used to be, but this would not always be feasible and there was no provision in the bill to ensure it would be recreated nearby.\n\nNature experts have said the bill is \"one-sided\" and could allow developers to ignore environmental protections, as well as creating a \"cash to trash nature\" system. This is because it allows developers to pay into a nature restoration fund rather than ensuring they protect wildlife on the site they are building on. The Guardian also recently reported that thousands of playing fields could be lost to housing if the bill goes ahead unamended.\n\nZack Polanski, deputy leader of the Green party, said: \"We live in one of the most nature depleted countries in the world ... It's appalling that the government hasn't thought through the consequences of destroying habitats as they're so eager to please huge developers at all costs.\n\n\"We have a housing crisis and desperately need homes. The government must ensure that communities, especially our poorest communities who are least likely to be well represented in this debate, have access to local green space.\"\n\nPlummer said: \"Reduced local tree cover and other natural solutions also leaves communities less resilient to more extreme weather conditions as the climate changes. Urgent changes to the planning bill are needed to guarantee developments avoid harm wherever possible, guarantee local nature loss is more than compensated for locally, and ensure that the nature restoration fund follows the science on what will work for nature and neighbourhoods.\"",
+            "source": {
+                "uri": "theguardian.com",
+                "dataType": "news",
+                "title": "The Guardian"
+            },
+            "authors": [
+                {
+                    "uri": "helena_horton@theguardian.com",
+                    "name": "Helena Horton",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://i.guim.co.uk/img/media/da840c12400ac868c7d0302ca89798ca628afa51/0_81_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=3792f412675443fe21d6cd93a0f309c9",
+            "eventUri": null,
+            "sentiment": -0.06666666666666665,
+            "wgt": 483818172,
+            "relevance": 1
+        },
+        {
+            "uri": "2025-05-707221087",
+            "lang": "eng",
+            "isDuplicate": true,
+            "date": "2025-05-01",
+            "time": "17:55:31",
+            "dateTime": "2025-05-01T17:55:31Z",
+            "dateTimePub": "2025-05-01T07:44:56Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.washingtontimes.com/news/2025/may/1/kenyan-opposition-mp-charles-killed-targeted-shooting/",
+            "title": "Kenyan opposition MP is killed in 'targeted' shooting",
+            "body": "NAIROBI, Kenya -- A Kenyan opposition legislator was shot dead in the capital Nairobi in what police have described as a \"targeted and premeditated\" crime.\n\nMP Charles Were was shot on Wednesday night after his car stopped at a roundabout on a busy major road.\n\nPresident Willian Ruto urged police to conduct a \"through investigation\" and said Thursday that those responsible \"must be held to account.\"\n\nWere was in the company of his driver and bodyguard when a motorcycle taxi approached their car, and a passenger disembarked and approached their car before firing at the MP, police said in a statement.\n\nThe legislator was reelected in 2022 to represent Kasipul constituency in western Kenya for the Orange Democratic Movement party.\n\nOpposition leader Raila Odinga described Were as a \"gallant son of the soil.\"\n\nOdinga was President Ruto's main challenger in the 2022 general election.\n\nPolitical tensions in Kenya have simmed down since last year, when the country saw a series of opposition-backed anti-government protests during which dozens of people died. Ruto later appointed members of Odinga's party to the cabinet and the two leaders signed a political pact in March this year.",
+            "source": {
+                "uri": "washingtontimes.com",
+                "dataType": "news",
+                "title": "Washington Times"
+            },
+            "authors": [],
+            "image": "https://twt-thumbs.washtimes.com/media/image/2025/05/01/Kenya_Member_of_Parliament_89813_c0-261-6240-3899_s1770x1032.jpg?d221b80d1b42aa32cdba876edd5ea521afbd1be3",
+            "eventUri": null,
+            "sentiment": -0.1372549019607843,
+            "wgt": 483818131,
+            "relevance": 1
+        },
+        {
+            "uri": "2025-05-707221088",
+            "lang": "eng",
+            "isDuplicate": true,
+            "date": "2025-05-01",
+            "time": "17:55:22",
+            "dateTime": "2025-05-01T17:55:22Z",
+            "dateTimePub": "2025-05-01T07:43:33Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.washingtontimes.com/news/2025/may/1/indian-city-smartwatches-part-solution-coping-searing-heat/",
+            "title": "In this Indian city, smartwatches are part of the solution to dealing with searing heat",
+            "body": "AHMEDABAD, India -- It's a little past 10 a.m. and the heat is already blazing on the outskirts of the Western Indian city of Ahmedabad.\n\nSapnaben Chunara, a 30-year-old mother of three, has just finished her morning chores. She seeks respite from the heat in the shade of a neem tree, a species that can withstand high temperatures and drought.\n\nChunara spends most of the day outdoors in Vanzara Vas, a low-income neighborhood of about 800 families, because her tin-roofed house is even hotter. Indoor temperatures can be even higher, especially when outside they climb above 40 degrees Celsius (104 F).\n\nThat was once rare but now happens regularly. And this year, high heat started three weeks earlier than in previous years, touching 43 degrees Celsius (109.40 F) in early April.\n\n\"Sometimes it gets so hot, I can't think straight,\" said Chunara, sporting a black smartwatch that contrasts sharply with her colorful bangles and sari.\n\nChunara is one of 204 residents of Vanzara Vas given the smartwatches for a year-long study to find out how heat affects vulnerable communities around the world. The watches measure heart rate and pulse and track sleep, and participants get weekly blood pressure checks.\n\nResearchers also painted some roofs with reflective paint to reduce indoor heat and will compare them to homes without so-called cool roofs using indoor heat sensors. Along with the smartwatches, this will help them understand how much cool roofs can help poor households deal with India's scorching summers.\n\nChunara, whose home didn't get a cool roof, said she's happy to participate by wearing the watch, confident the results will help her family, too.\n\n\"They might paint my roof as well and they might be able to do something that helps all of us in this area cope with the heat better,\" Chunara said.\n\nCities like Ahmedabad have always had hot summers, but now they're nearing the threshold beyond which exposure for more than a few hours can be fatal.\n\nIn the summer of 2010, the city witnessed nearly 1,300 excess deaths - how many more people died than would be expected - which experts found were most likely due to high temperatures.\n\nAn increasingly hot planet, due largely to burning fossil fuels such as coal and gas that release carbon dioxide and other greenhouse gases, means already hot regions are getting even worse.\n\nA 2023 study estimated that if the global mean temperature continues to rise to just under 2 degrees Celsius (3.6 degrees Fahrenheit), there would be a 370% rise in heat-related deaths around the world and most would happen in South and Southeast Asia and Africa.\n\n\"This is a big concern, and it also shows the heat divide\" between the poor and wealthy, said Abhiyant Tiwari, a climate expert with NRDC India and part of the group conducting the research in Ahmedabad.\n\nFollowing the 2010 tragedy, city officials, with help from public health and heat experts, devised an action plan to warn citizens when the heat is at dangerous levels and prepare city hospitals to respond rapidly to heat-related illness. The plan has been replicated across India and other parts of South Asia.\n\nThe last two years have been the world's hottest ever, and researchers hope their work can provide an additional line of defense for those who bear the brunt of increasing heat.\n\nThe Ahmedabad study is only one part of a global research project examining how heat is affecting poor, vulnerable communities in four cities across the world. Researchers also are measuring heat impacts using smartwatches and other devices in Africa's Burkina Faso, the Pacific island of Niue near New Zealand and in the Sonoran desert region in Mexico.\n\nMore than 1.1 billion people - about one-eighth of the world's population - live in informal settlements and poor neighborhoods that are particularly vulnerable, said Aditi Bunker, environmental health researcher associated with the University of Auckland, New Zealand, and Heidelberg University, Germany, who is leading the global project.\n\n\"Climate change and heat are ravaging populations. And now the question comes, what are we doing to address this?\" she said, referring to the motivation behind the research.\n\nIn Ahmedabad, Bunker, along with researchers at the Indian Institute of Public Health Gandhinagar and the Ahmedabad Municipal Corporation, is constantly collecting relevant health data.\n\nIf they find that cool roofs effectively reduce indoor heat, they plan to paint the roofs of all the homes. Researchers hope their study leads to more use of solutions like cool roofs for poor, vulnerable populations around the world - and that policymakers will factor in such solutions when deciding how their countries and communities can adapt to increasing heat exposure.\n\nFor now, Vanzara Vas residents like Chunara and her neighbor, Shantaben Vanzara, said they will take any help they can get. Shantaben Vanzara said the heat has made her diabetes worse, but being part of the study has provided her family some respite. \"We don't get to sleep because of the heat,\" she said. \"After the roof got painted, we can sleep for a few hours a night at least.\"\n\nChunara said temperatures used to be predictable.\n\n\"Now we don't know when or what will happen,\" she said. \"The only thing that we know for sure is that the heat is getting worse every year.\"\n\n___\n\nThis report has been edited to correct the name of NRDC India, previously incorrectly given as the Natural Resources Defense Council.\n\nThe Associated Press' climate and environmental coverage receives financial support from multiple private foundations. AP is solely responsible for all content. Find AP's standards for working with philanthropies, a list of supporters and funded coverage areas at AP.org.",
+            "source": {
+                "uri": "washingtontimes.com",
+                "dataType": "news",
+                "title": "Washington Times"
+            },
+            "authors": [
+                {
+                    "uri": "sibi_arasu@washingtontimes.com",
+                    "name": "Sibi Arasu",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://twt-thumbs.washtimes.com/media/image/2025/04/30/Climate_India_Heat_Health_Monitoring_76138_c0-323-7720-4824_s1770x1032.jpg?b75603e9226df80f85d04446e588608a126addee",
+            "eventUri": null,
+            "sentiment": 0.03529411764705892,
+            "wgt": 483818122,
+            "relevance": 3
+        },
+        {
+            "uri": "2025-05-707220339",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "17:54:52",
+            "dateTime": "2025-05-01T17:54:52Z",
+            "dateTimePub": "2025-05-01T17:53:11Z",
+            "dataType": "news",
+            "sim": 0.5686274766921997,
+            "url": "https://www.nytimes.com/2025/05/01/weather/uk-heat-record-st-james-toilet.html",
+            "title": "U.K. Records Its Hottest May 1 Ever, Despite a Toilet Getting in the Way",
+            "body": "Nazaneen Ghaffar is a London-based reporter on The Times's weather team.\n\nBritain bathed in an abundance of sunshine and above-average temperatures this week, leading to a record-breaking May 1 high on Thursday, beating the previous record set in 1990. However, a public toilet may have flushed hopes that one London park would be home to a record reading.\n\nThe unseasonably warm and sunny conditions were driven by a high-pressure system situated over the country, and temperatures climbed steadily throughout the week. On Monday, St. James's Park in central London, tucked between Buckingham Palace and Westminster Abbey, recorded its highest temperature so far this year, only to be outdone each subsequent day, culminating in another record-breaking day on Thursday.\n\nBut not so fast, record-keepers.\n\nObservations from a weather station in the park had to be disqualified, because of a \"contamination\" at the site. The culprit? Public toilets, barriers and generators that had been temporarily installed near the weather station in preparation for upcoming celebrations of the anniversary of V-E Day, cutting off crucial airflow needed for accurate readings.\n\n\"We have withdrawn observations from this weather station until the site has been returned to an acceptable standard,\" said a spokesperson for the Met Office, Britain's weather service.\n\nThe Met Office operates a national network of more than 200 automated weather stations, each of which monitors a range of meteorological variables including air temperature, atmospheric pressure, rainfall, wind speed and direction, humidity, cloud height and visibility.\n\nEnsuring consistency and accuracy across these measurements is essential both for real-time forecasting and for maintaining the nation's long-term weather and climate records. Weather stations must therefore meet strict criteria in line with international standards. It is not uncommon to have readings withdrawn or reviewed.\n\nAir temperatures are measured 1.25 meters above ground within a Stevenson screen, a ventilated white box designed to shield instruments from direct solar radiation. According to the Met Office, ideal sites for such equipment are level and free from nearby obstructions such as buildings or trees, which could influence readings.\n\nSo, although the station at St. James's Park recorded a high of 83 degrees Fahrenheit (28.1 Celsius) on Thursday, the reading was not considered valid for official records. However, another Met Office site at Kew Gardens, just a few miles away and apparently free of nearby toilets, registered the same maximum temperature early Thursday afternoon, officially marking Britain's warmest May 1 on record. Temperatures continued to rise later in the day, with a provisional reading of 84 degrees Fahrenheit (29.1 Celsius) in Surrey, just to the southwest of London.\n\nSt. James's Park is a long-established Met Office station dating back to around 1883 and is frequently among Britain's warmest locations. In July 2024, the station recorded a high of 89 degrees Fahrenheit (31.7 Celsius) during a heat wave that prompted widespread health alerts across England.\n\nTemperature records were also broken elsewhere this week. On Wednesday, Met Eireann, Ireland's national meteorological service, reported a provisional high of 79 degrees Fahrenheit (25.9 Celsius) in Athenry, County Galway, surpassing the country's previous April record of 78 (25.6), set in 1984. It was only the second time that temperatures in Ireland exceeded 77 degrees Fahrenheit during the month of April.\n\nThe current spell of warm weather is expected to end this weekend, as cooler air from the north moves in and temperatures return to seasonal averages.",
+            "source": {
+                "uri": "nytimes.com",
+                "dataType": "news",
+                "title": "The New York Times"
+            },
+            "authors": [
+                {
+                    "uri": "nazaneen_ghaffar@nytimes.com",
+                    "name": "Nazaneen Ghaffar",
+                    "type": "author",
+                    "isAgency": false
+                }
+            ],
+            "image": "https://static01.nyt.com/images/2025/05/01/multimedia/01wea-UKheatrecord-kbwg/01wea-UKheatrecord-kbwg-videoSixteenByNine3000.jpg",
+            "eventUri": "eng-10570661",
+            "sentiment": 0.05882352941176472,
+            "wgt": 483818092,
+            "relevance": 1
+        },
+        {
+            "uri": "2025-05-707219776",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2025-05-01",
+            "time": "17:54:02",
+            "dateTime": "2025-05-01T17:54:02Z",
+            "dateTimePub": "2025-05-01T17:39:00Z",
+            "dataType": "news",
+            "sim": 0.7843137383460999,
+            "url": "https://www.news.com.au/technology/motoring/on-the-road/better-off-claims-tesla-looked-to-replace-elon-musk/news-story/4fc83325c2ed7732693ad89c76371ad2",
+            "title": "'Better off': Claims Tesla looked to replace Musk",
+            "body": "The board of Tesla reportedly made plans to dump CEO Elon Musk and put feelers out for a new boss as the car maker's image and profits slumped due to Mr Musk's role in the Trump White House.\n\nUS newspaper the Wall Street Journalclaimed that board members of the electric vehicle manufacturer had gone so far as to sound out several executive search firms as frustration with Mr Musk and his lack of focus on Tesla mounted.\n\nTesla has denied the claims and Mr Musk said the story was \"deliberately false\".\n\nMr Musk funnelled almost $400 million into Donald Trump's presidential campaign.\n\nSince the start of the year, and Mr Musk's high profile role leading the so-called Department of Government Efficiency, or DOGE, Tesla has had a tortuous time.\n\nMr Musk's closeness to Mr Trump has led to boycotts and protests at dealerships and plunging sales in some markets.\n\nYet, Mr Musk's presence at the White House has not prevented the firm from being hammered by tariffs.\n\nThat's alongside concerns about the Tesla model line-up, the high price of its vehicles and quality concerns with its futuristic looking Cyber Truck.\n\nThe company's first quarter profits fell by 71 per cent.\n\nBetter off\n\nThe newspaper reported that some senior staff at Tesla had deep concerns about how Mr Musk's actions were reflecting on the business.\n\nTesla executive Eliah Gilfenbaum was reported as saying it was getting more challenging to hire and retain talent.\n\nHe added the company would be better off if Musk resigned but that was unlikely to happen and staff needed to put the boss' views to one side and continue working.\n\nShortly after those claimed comments came to light, Mr Gilfenbaum left the firm.\n\nThe Wall Street Journal also said a board member had remarked that Mr Musk was not as well prepared when dealing with Tesla issues.\n\nLast month, Mr Musk and the White House signalled the SpaceX boss would reduce his commitment to DOGE and return to Tesla.\n\nHis appointment to the initiative was time limited while many at Tesla wanted Mr Musk to either dedicate more time to the car company or walk away.\n\nIt was around the same time, the Wall Street Journal reported, that the Tesla board asked executive recruitment firms to begin work on a formal process to find a new chief executive. Those moves were advanced enough that the board chose a single head hunting firm for the search.\n\nMr Musk, who owns 13 per cent of Tesla, appeared to get the message, telling investors that \"Starting next month, I'll be allocating far more of my time to Tesla\".\n\nThe threat to remove Mr Musk now appears to have dissipated.\n\nTesla, Musk deny reports\n\nBoth Tesla and its CEO have hit back at the reports.\n\n\"It is an extremely bad breach of ethics that the WSJ would publish a deliberately false article and fail to include an unequivocal denial beforehand by the Tesla board of directors!\" wrote Mr Musk on X.\n\nTesla board chair Robyn Denholm also chimed in.\n\n\"Earlier today, there was a media report erroneously claiming that the Tesla Board had contacted recruitment firms to initiate a CEO search at the company,\" he stated.\n\n\"This is absolutely false (and this was communicated to the media before the report was published).\n\n\"The CEO of Tesla is Elon Musk and the Board is highly confident in his ability to continue executing on the exciting growth plan ahead.\"\n\n\"Tesla was given the opportunity to provide a statement before publication, which they did not do.\"",
+            "source": {
+                "uri": "news.com.au",
+                "dataType": "news",
+                "title": "News.com.au"
+            },
+            "authors": [],
+            "image": "https://content.api.news/v3/images/bin/b143c66e764eb90ac10b46bcfa5e665c",
+            "eventUri": "eng-10561870",
+            "sentiment": -0.09019607843137256,
+            "wgt": 483818042,
+            "relevance": 1
+        }
+    ]
+}

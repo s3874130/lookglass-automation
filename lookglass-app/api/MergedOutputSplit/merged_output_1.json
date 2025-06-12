@@ -1,0 +1,29 @@
+{
+    "articles": [
+        {
+            "uri": "2024-12-590520177",
+            "lang": "eng",
+            "isDuplicate": false,
+            "date": "2024-12-31",
+            "time": "23:59:52",
+            "dateTime": "2024-12-31T23:59:52Z",
+            "dateTimePub": "2024-12-31T23:58:19Z",
+            "dataType": "news",
+            "sim": 0,
+            "url": "https://www.streetinsider.com/Business+Wire/Hamershlag+Private+Capital+Markets+Limited+Makes+%24150+Million+Venture+Structured+Investment+in+Patho+Care%2C+LLC+via+PathoCare+Holdings%2C+Inc./24157993.html",
+            "title": "Hamershlag Private Capital Markets Limited Makes $150 Million Venture Structured Investment in Patho Care, LLC via PathoCare Holdings, Inc.",
+            "body": "After-hours movers: HPE, lululemon, Ulta Beauty, Docusign and more\n\nHOUSTON--(BUSINESS WIRE)-- Hamershlag Private Capital Management Limited (HPCM), a leading health technology investment firm, has announced a significant venture investment in Patho Care, LLC, a leader in the \"lab on a chip\" non-invasive point of care diagnostic tests. Patho Care's revolutionary Raman spectroscopy-based testing platform is underpinned by 17 patents. The transaction, valued at $150.15 million, was structured as a acquisition and recapitalization using newly issued common stock and cash through a newly formed entity, PathoCare Holdings, Inc., to streamline the investment and operational framework.\n\nThis strategic investment reflects HPCM's commitment to advancing innovative healthcare solutions while generating substantial returns for its investors. The transaction terms were designed to ensure Patho Care, LLC has the resources to expand its operations and establish its market position.\n\nThe investment also facilitated the repayment of existing financial obligations held by Patho Care, LLC. As of December 18, 2022, a critical component of the deal included settling PathoCare's outstanding notes, ensuring the company's financial readiness to embark on this next phase of growth.\n\n\"Patho Care, LLC is a distinguished leader in healthcare diagnostics through the utilization of a novel approach with spectroscopy and this investment aligns with HPCM's strategy of partnering with high-potential companies in dynamic industries,\" said L. Mychal Jefferson, Chairman. \"Our commitment to delivering transformative value through innovative investments underscores our confidence in PathoCare's vision and capabilities.\"\n\nThe investment will empower Patho Care, LLC to broaden its service offerings, enhance operational efficiencies, and innovate in key areas of diagnostics testing. The collaboration between HPCM and PathoCare Holdings, Inc. is set to unlock new growth opportunities while maintaining the company's legacy of excellence in an emerging technology.\n\nThis venture marks a significant milestone in Hamershlag Private Capital Markets Limited's investment portfolio, reinforcing its reputation as a trusted partner for companies seeking strategic growth capital. Both parties are dedicated to ensuring a seamless transition and maintaining the highest levels of service for PathoCare's stakeholders.\n\nAbout Hamershlag Private Capital Markets Limited\n\nHamershlag Private is a family investment office dedicated to investing in category defining companies and projects across industries and sectors. They provide long term, flexible capital with a unique ability to act quickly on impactful opportunities. They maintain a diversified portfolio, with a focus on disruptive technologies, climate impact, and emerging industries by cultivating extensive long-term relationships with other family offices and investment firms across asset classes. Hamershlag Private combines institutional infrastructure with core values of flexibility, creativity, and execution. https://www.hamershlagprivate.com/\n\nAbout Patho Care, LLC\n\nPatho Care, LLC, a wholly owed subsidiary of PathoCare Holdings, Inc., is a private medical diagnostics firm that has developed a revolutionary Raman Spectroscopy-based testing platform, protected by 17 patents. This innovative technology enables rapid, non invasive, and highly cost effective diagnostic tests, addressing critical limitations in traditional diagnostics. Current testing systems require swabs, reagents, immobile equipment, and several hours to days to obtain test results and are primarily chemical based processes. The PathoCare's (point-of-care-testing) POCT devices are in the digital domain and therefore programmable, mobile, accurate and reusable for the detection and characterization of any current or future respiratory bacterial or viral infection. The system uses adaptive artificial intelligence to further increase the accuracy of its results via spectral diagnostic and LDT testing confirmation models.\n\nAbout PathoCare Holdings, Inc.\n\nPathoCare Holdings, Inc. is the newly formed investment and acquisition vehicle created to facilitate Hamershlag Private's current and future investments and into PathoCare, LLC. www.spectroscopy.health\n\nSource: Hamershlag Private Capital Management Limited",
+            "source": {
+                "uri": "streetinsider.com",
+                "dataType": "news",
+                "title": "StreetInsider.com"
+            },
+            "authors": [],
+            "image": "http://www.streetinsider.com/images/silogo-new.png",
+            "eventUri": null,
+            "sentiment": 0.4901960784313726,
+            "wgt": 473385592,
+            "relevance": 3
+        }
+    ]
+}
