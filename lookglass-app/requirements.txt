@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+aiohttp
+httpx
+eventregistry
+python-dotenv
+pydantic
