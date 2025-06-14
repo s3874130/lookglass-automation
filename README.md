@@ -58,15 +58,15 @@ cd lookglass-app
 cp .env.template .env       # Then insert your real API keys in the new .env file.
 ```
 
-### 3. Install Dependencies
+### 3. Activate the virtual environment
 ```bash
 python3 -m venv venv
-pip install -r requirements.txt
+source venv/bin/activate
 ```
 
-### 4. Activate the virtual environment
+### 4. Install Dependencies
 ```bash
-source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ### 5. Start FastAPI backend server
