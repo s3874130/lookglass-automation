@@ -54,7 +54,8 @@ cd lookglass-app
 
 ### 2. Setup Environmental Variables
 ```bash
-cp .env.template .env       # Edit secret keys etc
+# Create .env from template
+cp .env.template .env       # Then insert your real API keys in the new .env file.
 ```
 
 ### 3. Install Dependencies
