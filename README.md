@@ -18,7 +18,7 @@
 | **Frontend** | Next 13 app directory (`lookglass-app/app/…`) – search UI, visualisation dashboard |
 | **Backend**  | FastAPI (`lookglass-app/api/…`) – `/search-news` endpoint; aggregates articles from News API, Twitter, Blogs |
 | **Persistence** | *None yet* – results cached client-side via `localStorage` |
-| **Future** | Add Postgres for article history; Docker-Compose for one-command dev spin-up |
+| **Future** | Add Postgres for article history; Docker-Compose for one-command dev spin-up; Amazon AWS integration with Oisin workflow |
 
 ---
 
