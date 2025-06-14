@@ -54,16 +54,21 @@ cd lookglass-app
 
 ### 2. Setup Environmental Variables
 ```bash
-cp .evn.template .env       # Edit secret keys etc
+cp .env.template .env       # Edit secret keys etc
 ```
 
 ### 3. Install Dependencies
 ```bash
-python -m venv venv && source venv/bin/activate
+python3 -m venv venv
 pip install -r requirements.txt
 ```
 
-### 4. Start FastAPI backend server
+### 4. Activate the virtual environment
+```bash
+source venv/bin/activate
+```
+
+### 5. Start FastAPI backend server
 ```bash
 -m uvicorn autosapi:app --reload
 ```
@@ -119,7 +124,7 @@ All notable changes will be documented in this section.
 #### Added
 - Fixed bugs with the search feature
 
-### [v0.7.9] - 2025-05-30
+### [v0.7.0] - 2025-05-30
 #### Added
 - Added comments to the search page logic
 - Added badges to colour code claim types
