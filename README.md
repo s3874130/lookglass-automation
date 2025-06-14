@@ -50,6 +50,8 @@ lookglass-app/
 ```bash
 git clone https://github.com/s3874130/lookglass-automation.git
 cd lookglass-app
+npm install
+npm install --legacy-peer-deps         #If you are having issues with the dependency version for newer React modules
 ```
 
 ### 2. Setup Environmental Variables
@@ -74,12 +76,12 @@ pip install -r requirements.txt
 python3 -m uvicorn api.autosapi:app --reload
 ```
 
-Open [`http://localhost:3000`](http://localhost:3000) with your browser to see the result.
-
 ### 5. Run client
 ```bash
 npm run dev
 ```
+Open [`http://localhost:3000`](http://localhost:3000) with your browser to see the result.
+
 ---
 
 ## Changelog
