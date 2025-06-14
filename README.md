@@ -76,8 +76,9 @@ pip install -r requirements.txt
 python3 -m uvicorn api.autosapi:app --reload
 ```
 
-### 5. Run client
+### 5. Run client in a new terminal
 ```bash
+cd lookglass-app
 npm run dev
 ```
 Open [`http://localhost:3000`](http://localhost:3000) with your browser to see the result.
