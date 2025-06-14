@@ -8,8 +8,7 @@
 2. [Tech Stack](#tech-stack)  
 3. [Folder Structure](#folder-structure)  
 4. [Quick Start](#quick-start)  
-5. [Environment Variables](#environment-variables)    
-6. [Changelog](#-changelog)  
+5. [Changelog](#changelog)  
 
 ---
 
@@ -75,6 +74,7 @@ Open [`http://localhost:3000`](http://localhost:3000) with your browser to see t
 ```bash
 npm run dev
 ```
+---
 
 ## Changelog
 
@@ -136,3 +136,5 @@ All notable changes will be documented in this section.
 ### [v0.8.1] - 2025-06-14
 - Recovered search page after merging FastAPI server, lost code in merge process
 - Added unit test for front end features
+
+---
