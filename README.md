@@ -71,7 +71,7 @@ source venv/bin/activate
 
 ### 5. Start FastAPI backend server
 ```bash
-python3 -m uvicorn autosapi:app --reload
+python3 -m uvicorn api.autosapi:app --reload
 ```
 
 Open [`http://localhost:3000`](http://localhost:3000) with your browser to see the result.
